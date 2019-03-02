@@ -1,0 +1,50 @@
+.sideBar{
+  height: 100%;
+  width: 15%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #ececec;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+
+
+/* css for result list */
+#results{
+    float: right;
+    background-color: #eae4b4;
+    width: 80%;
+    padding: 20px;
+    margin: 20px;
+    margin-right: 40px;
+}
+
+#results p{
+  margin:0;
+}
+
+#results img{
+  width: 100px;
+  height: 100px;
+  object-fit:fill;
+}
+.resultListView{
+
+}
+
+.img-wrapper{
+  float: left;
+  width: 12%;
+}
+
+.result-info{
+  float: left;
+  width:80%;
+}
+
+.price-info{
+  float:left;
+}
