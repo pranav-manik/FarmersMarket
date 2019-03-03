@@ -32,7 +32,7 @@ export default class SearchBar extends React.Component {
           <Collapse isOpen={this.state.isOpen} navbar>
             <Nav className="mx-auto" navbar>
               <NavItem>
-                <input type="text" placeholder="Search.."></input>
+                <input type="text" placeholder="Search Seeds"></input>
               </NavItem>
             </Nav>
           </Collapse>

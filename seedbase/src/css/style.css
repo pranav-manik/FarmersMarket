@@ -1,13 +1,17 @@
-.sideBar{
+.wrapper{
+  height:100vh;
+  width:100%;
+}
+
+#sideBar{
   height: 100%;
-  width: 15%;
-  position: fixed;
-  z-index: 1;
-  top: 0;
-  left: 0;
   background-color: #ececec;
-  overflow-x: hidden;
-  padding-top: 20px;
+  float: left;
+  width:15%;
+}
+
+.sideBar{
+  padding: 20px;
 }
 
 
@@ -15,11 +19,8 @@
 /* css for result list */
 #results{
     float: right;
-    background-color: #eae4b4;
-    width: 80%;
+    width: 85%;
     padding: 20px;
-    margin: 20px;
-    margin-right: 40px;
 }
 
 #results p{
@@ -32,19 +33,24 @@
   object-fit:fill;
 }
 .resultListView{
-
+  background-color: #efefef;
+  height: 125px;
+  margin: 20px 0;
 }
 
 .img-wrapper{
   float: left;
   width: 12%;
+  height: 100%;
 }
 
 .result-info{
   float: left;
   width:80%;
+  height: 100%;
 }
 
 .price-info{
   float:left;
+  height: 100%;
 }
