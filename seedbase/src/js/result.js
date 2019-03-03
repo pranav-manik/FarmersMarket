@@ -27,14 +27,13 @@ function MakeSeed(props) {
 	return (
 		<div class = "resultListView">
       <div class = "img-wrapper">
-        <img src = {props.seedImg}></img>
+        <i class = {props.seedImg}></i>
       </div>
       <div class = "result-info">
-			   <h4> {props.seedVariety} {props.seedName}</h4>
-         <p>Manufacturer: {props.seedManufacturer}</p>
-         <p>Maturity: {props.seedMaturity} | Life Cycle: {props.seedLifeCycle}
-        </p>
-         <p>Organic: {props.seedOrganic}</p>
+			   <h4> {props.seedVariety} {props.seedName} </h4>
+         <p>Manufacturer: {props.seedManufacturer} </p>
+         <p>Maturity: {props.seedMaturity} | Life Cycle: {props.seedLifeCycle} </p>
+         <p>Organic: {props.seedOrganic} </p>
       </div>
       <div class = "price-info">
         <p>{props.seedPrice}</p>
@@ -86,7 +85,7 @@ class Rows extends React.Component{
     super(props);
     this.state = {
       data: [
-        
+
       ]
     }
     this.retrieveData(this.props.query);
@@ -120,7 +119,11 @@ class Rows extends React.Component{
     });
   }
 
+<<<<<<< HEAD
   renderSeed(img='/img/logo.png', variety='n/a', name='n/a', manufacturer='n/a', mature='n/a', life_cycle='n/a', organic=false, price=0, price_per_unit, url='n/a'){
+=======
+  renderSeed(img= "fas fa-apple", variety='n/a', name='n/a', manufacturer='n/a', mature='n/a', life_cycle='n/a', organic=false, price=0, url='n/a'){
+>>>>>>> 251d3a9fe055a145575018da96b7187d02180885
 
     return(
         <MakeSeed
@@ -160,6 +163,7 @@ class Rows extends React.Component{
     let { data } = this.state;
     if (data.length > 0) {
       var rows = [];
+<<<<<<< HEAD
       for (var i=0; i < data.length; i++) {
 
         let myVariety = data[i].variety;
@@ -171,6 +175,23 @@ class Rows extends React.Component{
         let myLifeCycle = data[i].life_cycle;
 
         rows.push(this.renderSeed("/img/logo.png", myVariety, myName, data[i].manufacturer, myMaturity, myLifeCycle, isOrganic, displayPrice, data[i].price_per_unit, data[i].url));
+=======
+      for (var i=0; i < 30; i++) {
+
+        var logo;
+
+        if (data[i].category == "fruits"){
+          logo = "fas fa-3x fa-apple-alt padtop red";
+        }
+        else if (data[i].category == "vegetables"){
+          logo = "fas fa-3x fa-carrot padtop orange";
+        }
+        else {
+          logo = "fas fa-3x fa-seedling padtop green"
+        }
+
+        rows.push(this.renderSeed(logo, data[i].variety, data[i].name, data[i].manufacturer, data[i].maturity, data[i].life_cycle, data[i].organic, data[i].price, data[i].url));
+>>>>>>> 251d3a9fe055a145575018da96b7187d02180885
       }
     }
     return(
