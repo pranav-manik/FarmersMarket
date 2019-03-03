@@ -26,13 +26,13 @@ export default class SearchBar extends React.Component {
   render() {
     return (
       <nav>
-        <Navbar color="light" light expand="md">
-          <NavbarBrand href="/">SeedBase</NavbarBrand>
+        <Navbar id = "searchbar" light expand="md">
+          <NavbarBrand href="/"><img class = "logo" src = "/img/logo.png"></img></NavbarBrand>
           <NavbarToggler onClick={this.toggle} />
           <Collapse isOpen={this.state.isOpen} navbar>
             <Nav className="mx-auto" navbar>
               <NavItem>
-                <input type="text" placeholder="Search Seeds"></input>
+                <input type="text" class = "search" placeholder="Search Seeds"></input>
               </NavItem>
             </Nav>
           </Collapse>

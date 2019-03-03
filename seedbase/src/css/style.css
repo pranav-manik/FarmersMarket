@@ -11,16 +11,37 @@
 }
 
 .sideBar{
-  padding: 20px;
+  padding: 20px
 }
 
+/*css for search bar*/
 
+#searchbar{
+  height: 80px;
+  background-color: #F1E8D9;
+}
 
+.search{
+  width: 400px;
+  height: 40px;
+  border-radius: 20px;
+  outline: none;
+  border:0;
+  box-shadow: 3px 6px 10px rgba(0, 0, 0, .16);
+  padding-left: 15px;
+  color: #565656;
+}
+
+.logo{
+  margin-top: 10px;
+  height:90px;
+  width:90px;
+}
 /* css for result list */
 #results{
-    float: right;
-    width: 85%;
-    padding: 20px;
+  float: right;
+  width: 85%;
+  padding: 20px;
 }
 
 #results p{
@@ -32,19 +53,31 @@
   height: 100px;
   object-fit:fill;
 }
+
 .resultListView{
+  background-color: #fff;
+  height: 140px;
+  margin: 40px 0;
+  border-radius: 20px;
+  box-shadow: 3px 6px 10px rgba(0, 0, 0, .16);
+}
+
+.resultListView:hover{
   background-color: #efefef;
-  height: 125px;
-  margin: 20px 0;
 }
 
 .img-wrapper{
   float: left;
-  width: 12%;
+  width: 10%;
   height: 100%;
+  background-color: white;
+  align-items: center;
+  text-align: center;
+  padding-top: 20px;
 }
 
 .result-info{
+  padding: 10px 20px;
   float: left;
   width:80%;
   height: 100%;
@@ -53,4 +86,6 @@
 .price-info{
   float:left;
   height: 100%;
+  text-align: center;
+  padding-top: 35px;
 }

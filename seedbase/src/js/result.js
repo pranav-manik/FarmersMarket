@@ -1,4 +1,5 @@
 import React from 'react';
+import '@fortawesome/fontawesome-free/css/all.css'; // or single skin css
 
 function MakeSeed(props) {
 	return (
@@ -7,13 +8,14 @@ function MakeSeed(props) {
         <img src = {props.seedImg}></img>
       </div>
       <div class = "result-info">
-			   <h3> {props.seedName}</h3>
+			   <h4> {props.seedName}</h4>
          <p>Manufacturer: {props.seedManufacturer}</p>
          <p>Germination Rate: {props.seedGerm}</p>
          <p>Cold Hardiness: {props.seedCold}</p>
       </div>
       <div class = "price-info">
         <p>${props.seedPrice}/lb</p>
+        <a href={props.seedURL} target="_blank"><i class="fas fa-2x fa-shopping-basket"></i></a>
       </div>
 		</div>
 	);
@@ -24,7 +26,7 @@ class Rows extends React.Component{
     super(props);
   }
 
-  renderSeed(img, name, man, germ, cold, price){
+  renderSeed(img, name, man, germ, cold, price, url){
     return(
         <MakeSeed
           seedImg = {img}
@@ -33,6 +35,7 @@ class Rows extends React.Component{
           seedGerm = {germ}
           seedCold = {cold}
           seedPrice = {price}
+          seedURL = {url}
         />
     )
   }
@@ -40,13 +43,13 @@ class Rows extends React.Component{
   render(){
     return(
       <div>
-        {this.renderSeed("https://nuts.com/images/auto/510x340/assets/acad1980deaad3bd.jpg", "Seed", "Johnny's", "100%", "Yes", "0.99")}
-        {this.renderSeed("https://nuts.com/images/auto/510x340/assets/acad1980deaad3bd.jpg", "Seed", "Johnny's", "100%", "Yes", "0.99")}
-        {this.renderSeed("https://nuts.com/images/auto/510x340/assets/acad1980deaad3bd.jpg", "Seed", "Johnny's", "100%", "Yes", "0.99")}
-        {this.renderSeed("https://nuts.com/images/auto/510x340/assets/acad1980deaad3bd.jpg", "Seed", "Johnny's", "100%", "Yes", "0.99")}
-        {this.renderSeed("https://nuts.com/images/auto/510x340/assets/acad1980deaad3bd.jpg", "Seed", "Johnny's", "100%", "Yes", "0.99")}
-        {this.renderSeed("https://nuts.com/images/auto/510x340/assets/acad1980deaad3bd.jpg", "Seed", "Johnny's", "100%", "Yes", "0.99")}
-        {this.renderSeed("https://nuts.com/images/auto/510x340/assets/acad1980deaad3bd.jpg", "Seed", "Johnny's", "100%", "Yes", "0.99")}
+        {this.renderSeed("./img/logo.png", "Seed", "Johnny's", "100%", "Yes", "0.99", "https://www.johnnyseeds.com/")}
+        {this.renderSeed("./img/logo.png", "Seed", "Johnny's", "100%", "Yes", "0.99", "https://www.johnnyseeds.com/")}
+        {this.renderSeed("./img/logo.png", "Seed", "Johnny's", "100%", "Yes", "0.99", "https://www.johnnyseeds.com/")}
+        {this.renderSeed("./img/logo.png", "Seed", "Johnny's", "100%", "Yes", "0.99", "https://www.johnnyseeds.com/")}
+        {this.renderSeed("./img/logo.png", "Seed", "Johnny's", "100%", "Yes", "0.99", "https://www.johnnyseeds.com/")}
+        {this.renderSeed("./img/logo.png", "Seed", "Johnny's", "100%", "Yes", "0.99", "https://www.johnnyseeds.com/")}
+        {this.renderSeed("./img/logo.png", "Seed", "Johnny's", "100%", "Yes", "0.99", "https://www.johnnyseeds.com/")}
       </div>
     );
   }
