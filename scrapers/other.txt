@@ -1,0 +1,420 @@
+{
+    "variety": "Purple Top Forage Turnips",
+    "name": "brassicas",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "7.83",
+    "price_per_unit": "$7.83/1 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/brassicas/purple-top-forage-turnips-brassica-seed-233.html?cgid=brassicas"
+}
+{
+    "variety": "Mustard",
+    "name": "brassicas",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "5.17",
+    "price_per_unit": "$5.17/1 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/brassicas/mustard-cover-crop-seed-3522.html?cgid=brassicas"
+}
+{
+    "variety": "Mighty Mustard\u00ae Pacific Gold",
+    "name": "brassicas",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "9.01",
+    "price_per_unit": "$9.01/1 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/brassicas/mighty-mustard-pacific-gold-cover-crop-seed-2821.html?cgid=brassicas"
+}
+{
+    "variety": "Oilseed Radish",
+    "name": "brassicas",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "8.76",
+    "price_per_unit": "$8.76/1 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/brassicas/oilseed-radish-cover-crop-seed-2906.html?cgid=brassicas"
+}
+{
+    "variety": "Peas and Oats Mix",
+    "name": "cover-crop-mixes",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "5.99",
+    "price_per_unit": "$5.99/1 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/cover-crop-mixes/peas-and-oats-mix-organic-cover-crop-seed-3685G.html?cgid=cover-crop-mixes"
+}
+{
+    "variety": "Spring Green Manure Mix",
+    "name": "cover-crop-mixes",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "7.58",
+    "price_per_unit": "$7.58/1 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/cover-crop-mixes/spring-green-manure-mix-organic-cover-crop-seed-976G.html?cgid=cover-crop-mixes"
+}
+{
+    "variety": "Fall Green Manure Mix",
+    "name": "cover-crop-mixes",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "4.92",
+    "price_per_unit": "$4.92/1/4 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/cover-crop-mixes/fall-green-manure-mix-cover-crop-seed-2613.html?cgid=cover-crop-mixes"
+}
+{
+    "variety": "Royal Hybrid\u00ae 1121 Sunflower",
+    "name": "grains",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/grains/royal-hybrid-1121-sunflower-f1-sunflower-seed-2603.html?cgid=grains"
+}
+{
+    "variety": "Buckwheat (Common)",
+    "name": "grains",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "5.89",
+    "price_per_unit": "$5.89/1 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/grains/buckwheat-common-organic-cover-crop-seed-966G.html?cgid=grains"
+}
+{
+    "variety": "Spring Wheat (Glenn)",
+    "name": "grains",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "6.14",
+    "price_per_unit": "$6.14/1 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/grains/spring-wheat-glenn-organic-cover-crop-seed-292G.html?cgid=grains"
+}
+{
+    "variety": "Oats (Common)",
+    "name": "grains",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "5.89",
+    "price_per_unit": "$5.89/1 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/grains/oats-common-organic-cover-crop-seed-2509G.html?cgid=grains"
+}
+{
+    "variety": "Buckwheat",
+    "name": "grains",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "4.35",
+    "price_per_unit": "$4.35/1 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/grains/buckwheat-cover-crop-seed-966.html?cgid=grains"
+}
+{
+    "variety": "Hulless Oats (Streaker)",
+    "name": "grains",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "7.22",
+    "price_per_unit": "$7.22/1 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/grains/hulless-oats-streaker-organic-cover-crop-seed-967G.html?cgid=grains"
+}
+{
+    "variety": "Winter Rye (Common)",
+    "name": "grains",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "5.73",
+    "price_per_unit": "$5.73/1 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/grains/winter-rye-common-organic-cover-crop-seed-968G.html?cgid=grains"
+}
+{
+    "variety": "Barley (Robust)",
+    "name": "grains",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "6.20",
+    "price_per_unit": "$6.20/1 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/grains/barley-robust-organic-cover-crop-seed-2720G.html?cgid=grains"
+}
+{
+    "variety": "Barley (Conlon)",
+    "name": "grains",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "5.99",
+    "price_per_unit": "$5.99/1 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/grains/barley-conlon-organic-cover-crop-seed-989G.html?cgid=grains"
+}
+{
+    "variety": "Barley (Pinnacle)",
+    "name": "grains",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "4.25",
+    "price_per_unit": "$4.25/1 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/grains/barley-pinnacle-cover-crop-seed-3676.html?cgid=grains"
+}
+{
+    "variety": "Hybrid Pearl Millet",
+    "name": "grasses-millets-and-sorghums",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "6.45",
+    "price_per_unit": "$6.45/1 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/grasses-millets-and-sorghums/hybrid-pearl-millet-cover-crop-seed-187.html?cgid=grasses%2C-millets-and-sorghums"
+}
+{
+    "variety": "Ryegrass",
+    "name": "grasses-millets-and-sorghums",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "3.99",
+    "price_per_unit": "$3.99/1/4 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/grasses-millets-and-sorghums/ryegrass-cover-crop-seed-988.html?cgid=grasses%2C-millets-and-sorghums"
+}
+{
+    "variety": "Sudangrass (Piper)",
+    "name": "grasses-millets-and-sorghums",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "6.55",
+    "price_per_unit": "$6.55/1/4 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/grasses-millets-and-sorghums/sudangrass-piper-cover-crop-seed-2858.html?cgid=grasses%2C-millets-and-sorghums"
+}
+{
+    "variety": "Sudangrass (Brown Mid Rib)",
+    "name": "grasses-millets-and-sorghums",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "",
+    "price_per_unit": "",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/grasses-millets-and-sorghums/sudangrass-brown-mid-rib-organic-cover-crop-seed-2826G.html?cgid=grasses%2C-millets-and-sorghums"
+}
+{
+    "variety": "New Zealand White Clover",
+    "name": "legumes",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "5.43",
+    "price_per_unit": "$5.43/1/4 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/legumes/new-zealand-white-clover-cover-crop-seed-979.html?cgid=legumes"
+}
+{
+    "variety": "Medium Red Clover",
+    "name": "legumes",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "6.66",
+    "price_per_unit": "$6.66/1/4 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/legumes/medium-red-clover-organic-cover-crop-seed-3192G.html?cgid=legumes"
+}
+{
+    "variety": "Sweet Clover",
+    "name": "legumes",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "5.12",
+    "price_per_unit": "$5.12/1/4 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/legumes/sweet-clover-organic-cover-crop-seed-977G.html?cgid=legumes"
+}
+{
+    "variety": "Summer Alfalfa",
+    "name": "legumes",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "9.06",
+    "price_per_unit": "$9.06/1/4 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/legumes/summer-alfalfa-cover-crop-seed-2808.html?cgid=legumes"
+}
+{
+    "variety": "Hairy Vetch",
+    "name": "legumes",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "5.12",
+    "price_per_unit": "$5.12/1/4 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/legumes/hairy-vetch-organic-cover-crop-seed-987G.html?cgid=legumes"
+}
+{
+    "variety": "Crimson Clover",
+    "name": "legumes",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "4.81",
+    "price_per_unit": "$4.81/1/4 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/legumes/crimson-clover-cover-crop-seed-982.html?cgid=legumes"
+}
+{
+    "variety": "Field Peas (Maxum)",
+    "name": "legumes",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "4.30",
+    "price_per_unit": "$4.30/1/4 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/legumes/field-peas-maxum-cover-crop-seed-2340.html?cgid=legumes"
+}
+{
+    "variety": "Mammoth Red Clover",
+    "name": "legumes",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "5.58",
+    "price_per_unit": "$5.58/1/4 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/legumes/mammoth-red-clover-organic-cover-crop-seed-980G.html?cgid=legumes"
+}
+{
+    "variety": "Soybeans (Viking 2265)",
+    "name": "legumes",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "5.99",
+    "price_per_unit": "$5.99/1 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/legumes/soybeans-viking-2265-organic-cover-crop-seed-225G.html?cgid=legumes"
+}
+{
+    "variety": "Crimson Clover",
+    "name": "legumes",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "5.58",
+    "price_per_unit": "$5.58/1/4 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/legumes/crimson-clover-organic-cover-crop-seed-982G.html?cgid=legumes"
+}
+{
+    "variety": "DS Admiral Pea",
+    "name": "legumes",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "5.99",
+    "price_per_unit": "$5.99/1 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/legumes/ds-admiral-pea-organic-field-pea-seed-238G.html?cgid=legumes"
+}
+{
+    "variety": "Chickling Vetch (AC Greenfix)",
+    "name": "legumes",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "5.99",
+    "price_per_unit": "$5.99/1 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/legumes/chickling-vetch-ac-greenfix-cover-crop-seed-2964.html?cgid=legumes"
+}
+{
+    "variety": "4010 Field Pea",
+    "name": "legumes",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "3.99",
+    "price_per_unit": "$3.99/1/4 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/legumes/4010-field-pea-organic-cover-crop-seed-92G.html?cgid=legumes"
+}
+{
+    "variety": "Cowpeas (Iron & Clay)",
+    "name": "legumes",
+    "category": "other",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "6.45",
+    "price_per_unit": "$6.45/1 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/farm-seed/legumes/cowpeas-iron-clay-cover-crop-seed-2786.html?cgid=legumes"
+}

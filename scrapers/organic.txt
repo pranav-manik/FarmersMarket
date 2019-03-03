@@ -1,0 +1,1164 @@
+{
+    "variety": "Spring Green Manure Mix",
+    "name": "farm seed",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "7.58",
+    "price_per_unit": "$7.58/1 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-farm-seed/spring-green-manure-mix-organic-cover-crop-seed-976G.html?cgid=organic-farm-seed"
+}
+{
+    "variety": "Buckwheat (Common)",
+    "name": "farm seed",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "5.89",
+    "price_per_unit": "$5.89/1 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-farm-seed/buckwheat-common-organic-cover-crop-seed-966G.html?cgid=organic-farm-seed"
+}
+{
+    "variety": "Medium Red Clover",
+    "name": "farm seed",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "6.66",
+    "price_per_unit": "$6.66/1/4 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-farm-seed/medium-red-clover-organic-cover-crop-seed-3192G.html?cgid=organic-farm-seed"
+}
+{
+    "variety": "Peas and Oats Mix",
+    "name": "farm seed",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "5.99",
+    "price_per_unit": "$5.99/1 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-farm-seed/peas-and-oats-mix-organic-cover-crop-seed-3685G.html?cgid=organic-farm-seed"
+}
+{
+    "variety": "Sweet Clover",
+    "name": "farm seed",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "5.12",
+    "price_per_unit": "$5.12/1/4 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-farm-seed/sweet-clover-organic-cover-crop-seed-977G.html?cgid=organic-farm-seed"
+}
+{
+    "variety": "Spring Wheat (Glenn)",
+    "name": "farm seed",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "6.14",
+    "price_per_unit": "$6.14/1 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-farm-seed/spring-wheat-glenn-organic-cover-crop-seed-292G.html?cgid=organic-farm-seed"
+}
+{
+    "variety": "Oats (Common)",
+    "name": "farm seed",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "5.89",
+    "price_per_unit": "$5.89/1 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-farm-seed/oats-common-organic-cover-crop-seed-2509G.html?cgid=organic-farm-seed"
+}
+{
+    "variety": "Hulless Oats (Streaker)",
+    "name": "farm seed",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "7.22",
+    "price_per_unit": "$7.22/1 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-farm-seed/hulless-oats-streaker-organic-cover-crop-seed-967G.html?cgid=organic-farm-seed"
+}
+{
+    "variety": "Hairy Vetch",
+    "name": "farm seed",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "5.12",
+    "price_per_unit": "$5.12/1/4 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-farm-seed/hairy-vetch-organic-cover-crop-seed-987G.html?cgid=organic-farm-seed"
+}
+{
+    "variety": "Winter Rye (Common)",
+    "name": "farm seed",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "5.73",
+    "price_per_unit": "$5.73/1 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-farm-seed/winter-rye-common-organic-cover-crop-seed-968G.html?cgid=organic-farm-seed"
+}
+{
+    "variety": "Mammoth Red Clover",
+    "name": "farm seed",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "5.58",
+    "price_per_unit": "$5.58/1/4 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-farm-seed/mammoth-red-clover-organic-cover-crop-seed-980G.html?cgid=organic-farm-seed"
+}
+{
+    "variety": "Barley (Robust)",
+    "name": "farm seed",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "6.20",
+    "price_per_unit": "$6.20/1 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-farm-seed/barley-robust-organic-cover-crop-seed-2720G.html?cgid=organic-farm-seed"
+}
+{
+    "variety": "Soybeans (Viking 2265)",
+    "name": "farm seed",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "5.99",
+    "price_per_unit": "$5.99/1 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-farm-seed/soybeans-viking-2265-organic-cover-crop-seed-225G.html?cgid=organic-farm-seed"
+}
+{
+    "variety": "Crimson Clover",
+    "name": "farm seed",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "5.58",
+    "price_per_unit": "$5.58/1/4 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-farm-seed/crimson-clover-organic-cover-crop-seed-982G.html?cgid=organic-farm-seed"
+}
+{
+    "variety": "Barley (Conlon)",
+    "name": "farm seed",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "5.99",
+    "price_per_unit": "$5.99/1 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-farm-seed/barley-conlon-organic-cover-crop-seed-989G.html?cgid=organic-farm-seed"
+}
+{
+    "variety": "DS Admiral Pea",
+    "name": "farm seed",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "5.99",
+    "price_per_unit": "$5.99/1 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-farm-seed/ds-admiral-pea-organic-field-pea-seed-238G.html?cgid=organic-farm-seed"
+}
+{
+    "variety": "4010 Field Pea",
+    "name": "farm seed",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "3.99",
+    "price_per_unit": "$3.99/1/4 Pound",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-farm-seed/4010-field-pea-organic-cover-crop-seed-92G.html?cgid=organic-farm-seed"
+}
+{
+    "variety": "Sudangrass (Brown Mid Rib)",
+    "name": "farm seed",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "",
+    "price_per_unit": "",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-farm-seed/sudangrass-brown-mid-rib-organic-cover-crop-seed-2826G.html?cgid=organic-farm-seed"
+}
+{
+    "variety": "Rudbeckia triloba",
+    "name": "flowers",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "90-100",
+    "life_cycle": "Perennial",
+    "price": "4.10",
+    "price_per_unit": "$4.10/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-flowers/rudbeckia-triloba-organic-seed-1969G.html?cgid=organic-flowers"
+}
+{
+    "variety": "Oklahoma Ivory",
+    "name": "flowers",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "75-90",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-flowers/oklahoma-ivory-organic-zinnia-seed-3539G.html?cgid=organic-flowers"
+}
+{
+    "variety": "Magic Lime Green",
+    "name": "flowers",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "100-110",
+    "life_cycle": "Tender Perennial",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-flowers/magic-lime-green-organic-matricaria-seed-1956G.html?cgid=organic-flowers"
+}
+{
+    "variety": "Gloriosa Double Daisy",
+    "name": "flowers",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "90-105",
+    "life_cycle": "Tender Perennial",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-flowers/gloriosa-double-daisy-organic-rudbeckia-seed-3433G.html?cgid=organic-flowers"
+}
+{
+    "variety": "Galilee Blue",
+    "name": "flowers",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "80-90",
+    "life_cycle": "Annual",
+    "price": "4.25",
+    "price_per_unit": "$4.25/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-flowers/galilee-blue-organic-larkspur-seed-3314G.html?cgid=organic-flowers"
+}
+{
+    "variety": "Galilee Lilac",
+    "name": "flowers",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "80-90",
+    "life_cycle": "Annual",
+    "price": "4.25",
+    "price_per_unit": "$4.25/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-flowers/galilee-lilac-organic-larkspur-seed-3315G.html?cgid=organic-flowers"
+}
+{
+    "variety": "Colorado Mix",
+    "name": "flowers",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "120-130",
+    "life_cycle": "Perennial",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-flowers/colorado-mix-organic-yarrow-seed-3878G.html?cgid=organic-flowers"
+}
+{
+    "variety": "Sun Ball",
+    "name": "flowers",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "110-120",
+    "life_cycle": "Tender Perennial",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-flowers/sun-ball-organic-craspedia-seed-1771G.html?cgid=organic-flowers"
+}
+{
+    "variety": "Alpha",
+    "name": "flowers",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "50-55",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-flowers/alpha-organic-calendula-seed-2935.html?cgid=organic-flowers"
+}
+{
+    "variety": "Bouquet",
+    "name": "flowers",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "40-45 to leaf harvest; 85-105 to seed",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-flowers/bouquet-organic-dill-seed-920G.html?cgid=organic-flowers"
+}
+{
+    "variety": "Persian Cress",
+    "name": "flowers",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "65-75",
+    "life_cycle": "Annual",
+    "price": "4.10",
+    "price_per_unit": "$4.10/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-flowers/persian-cress-organic-cress-seed-3399G.html?cgid=organic-flowers"
+}
+{
+    "variety": "Sweet Thai",
+    "name": "flowers",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "64",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-flowers/sweet-thai-organic-basil-seed-945G.html?cgid=organic-flowers"
+}
+{
+    "variety": "Kaleidoscope Mix",
+    "name": "flowers",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "55-65",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-flowers/kaleidoscope-mix-organic-nasturtium-seed-1882G.html?cgid=organic-flowers"
+}
+{
+    "variety": "Flashback Mix",
+    "name": "flowers",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "55",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-flowers/flashback-mix-organic-calendula-seed-1496.html?cgid=organic-flowers"
+}
+{
+    "variety": "Aromatto",
+    "name": "flowers",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "75-80",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-flowers/aromatto-organic-basil-seed-1772G.html?cgid=organic-flowers"
+}
+{
+    "variety": "Red Rubin",
+    "name": "flowers",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "72",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-flowers/red-rubin-organic-basil-seed-924G.html?cgid=organic-flowers"
+}
+{
+    "variety": "Sweet Annie",
+    "name": "flowers",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "120",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-flowers/sweet-annie-organic-artemisia-seed-1700.html?cgid=organic-flowers"
+}
+{
+    "variety": "Zohar",
+    "name": "flowers",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "50-60",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-flowers/zohar-organic-f1-sunflower-seed-1898G.html?cgid=organic-flowers"
+}
+{
+    "variety": "Sweet Granite",
+    "name": "fruits",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-fruits/sweet-granite-organic-melon-seed-459.html?cgid=organic-fruits"
+}
+{
+    "variety": "Divergent",
+    "name": "fruits",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "7.10",
+    "price_per_unit": "$7.10/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-fruits/divergent-organic-f1-melon-seed-3760G.html?cgid=organic-fruits"
+}
+{
+    "variety": "Arava",
+    "name": "fruits",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "77",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-fruits/arava-organic-f1-melon-seed-460G.html?cgid=organic-fruits"
+}
+{
+    "variety": "Victoria",
+    "name": "fruits",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "365",
+    "life_cycle": "Perennial",
+    "price": "27.99",
+    "price_per_unit": "$27.99/3 Units",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-fruits/victoria-organic-rhubarb-crowns-68G.html?cgid=organic-fruits"
+}
+{
+    "variety": "Elan",
+    "name": "fruits",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "100-120",
+    "life_cycle": "Perennial",
+    "price": "221.00",
+    "price_per_unit": "$221.00/1 Unit",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-fruits/elan-organic-f1-strawberry-plugs-3969G.html?cgid=organic-fruits"
+}
+{
+    "variety": "Durban",
+    "name": "fruits",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "100-120",
+    "life_cycle": "Perennial",
+    "price": "221.00",
+    "price_per_unit": "$221.00/1 Unit",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-fruits/durban-organic-f1-strawberry-plugs-3973G.html?cgid=organic-fruits"
+}
+{
+    "variety": "Eden's Gem",
+    "name": "fruits",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "",
+    "price_per_unit": "",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-fruits/edens-gem-organic-melon-seed-2782G.html?cgid=organic-fruits"
+}
+{
+    "variety": "Prospera\u00ae",
+    "name": "herbs",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "68",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-herbs/prospera-organic-basil-seed-3597G.html?cgid=organic-herbs"
+}
+{
+    "variety": "Leisure",
+    "name": "herbs",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "50-55 to leaf harvest; 90-105 to seed",
+    "life_cycle": "Annual",
+    "price": "4.25",
+    "price_per_unit": "$4.25/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-herbs/leisure-organic-cilantro-seed-3409G.html?cgid=organic-herbs"
+}
+{
+    "variety": "Cilantro, Monogerm",
+    "name": "herbs",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "16-25",
+    "life_cycle": "Annual",
+    "price": "5.20",
+    "price_per_unit": "$5.20/1 Ounce",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-herbs/cilantro-monogerm-organic-microgreen-seed-3446MG.html?cgid=organic-herbs"
+}
+{
+    "variety": "Basil, Genovese",
+    "name": "herbs",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "16-25",
+    "life_cycle": "Annual",
+    "price": "8.41",
+    "price_per_unit": "$8.41/1 Ounce",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-herbs/basil-genovese-organic-microgreen-seed-3303MG.html?cgid=organic-herbs"
+}
+{
+    "variety": "Fennel, Green",
+    "name": "herbs",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "16-25",
+    "life_cycle": "Tender Perennial",
+    "price": "6.66",
+    "price_per_unit": "$6.66/1 Ounce",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-herbs/fennel-green-organic-microgreen-seed-3152MG.html?cgid=organic-herbs"
+}
+{
+    "variety": "Basil, Bicolor",
+    "name": "herbs",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "16-25",
+    "life_cycle": "Annual",
+    "price": "13.90",
+    "price_per_unit": "$13.90/1 Ounce",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-herbs/basil-bicolor-organic-microgreen-seed-3374MG.html?cgid=organic-herbs"
+}
+{
+    "variety": "Thalia",
+    "name": "herbs",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "40-50 to leaf harvest; 95-105 to seed",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-herbs/thalia-organic-dill-seed-4010G.html?cgid=organic-herbs"
+}
+{
+    "variety": "Genovese",
+    "name": "herbs",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "68",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-herbs/genovese-organic-basil-seed-911G.html?cgid=organic-herbs"
+}
+{
+    "variety": "Alpha",
+    "name": "herbs",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "50-55",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-herbs/alpha-organic-calendula-seed-2935.html?cgid=organic-herbs"
+}
+{
+    "variety": "Hera",
+    "name": "herbs",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "40-50 to leaf harvest; 90-100 to seed",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-herbs/hera-organic-dill-seed-3149G.html?cgid=organic-herbs"
+}
+{
+    "variety": "Bouquet",
+    "name": "herbs",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "40-45 to leaf harvest; 85-105 to seed",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-herbs/bouquet-organic-dill-seed-920G.html?cgid=organic-herbs"
+}
+{
+    "variety": "Sweet Thai",
+    "name": "herbs",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "64",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-herbs/sweet-thai-organic-basil-seed-945G.html?cgid=organic-herbs"
+}
+{
+    "variety": "German Winter",
+    "name": "herbs",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "90-95",
+    "life_cycle": "Perennial",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-herbs/german-winter-organic-thyme-seed-940G.html?cgid=organic-herbs"
+}
+{
+    "variety": "Flashback Mix",
+    "name": "herbs",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "55",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-herbs/flashback-mix-organic-calendula-seed-1496.html?cgid=organic-herbs"
+}
+{
+    "variety": "Common Sage",
+    "name": "herbs",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "80-90",
+    "life_cycle": "Perennial",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-herbs/common-sage-organic-seed-934G.html?cgid=organic-herbs"
+}
+{
+    "variety": "Common Chamomile",
+    "name": "herbs",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "60-65",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-herbs/common-chamomile-organic-seed-914G.html?cgid=organic-herbs"
+}
+{
+    "variety": "Genovese",
+    "name": "herbs",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "68",
+    "life_cycle": "Annual",
+    "price": "5.10",
+    "price_per_unit": "$5.10/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-herbs/genovese-organic-pelleted-basil-seed-911GP.html?cgid=organic-herbs"
+}
+{
+    "variety": "Borage",
+    "name": "herbs",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "50-60",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-herbs/borage-organic-seed-912G.html?cgid=organic-herbs"
+}
+{
+    "variety": "AXXE\u00ae Broad-Spectrum Herbicide \u2013 2.5 Gal.",
+    "name": "supplies",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "50-60",
+    "life_cycle": "Annual",
+    "price": "195.00",
+    "price_per_unit": "$195.00/1 Unit",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-supplies/axxe-broad-spectrum-herbicide-2.5-gal.-7718.html?cgid=organic-supplies"
+}
+{
+    "variety": "Garden Combination",
+    "name": "supplies",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "50-60",
+    "life_cycle": "Annual",
+    "price": "4.99",
+    "price_per_unit": "$4.99/1 Unit",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-supplies/garden-combination-inoculant-9321.html?cgid=organic-supplies"
+}
+{
+    "variety": "Johnny's 512 Mix \u2013 60 Qt.",
+    "name": "supplies",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "50-60",
+    "life_cycle": "Annual",
+    "price": "34.82",
+    "price_per_unit": "$34.82/1 Unit",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-supplies/johnnys-512-mix-60-qt.-9228.html?cgid=organic-supplies"
+}
+{
+    "variety": "Pea, Lentil, and Vetch",
+    "name": "supplies",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "50-60",
+    "life_cycle": "Annual",
+    "price": "6.45",
+    "price_per_unit": "$6.45/1 Unit",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-supplies/pea-lentil-and-vetch-inoculant-9359.html?cgid=organic-supplies"
+}
+{
+    "variety": "Johnny's 512 Mix \u2013 20 Qt.",
+    "name": "supplies",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "50-60",
+    "life_cycle": "Annual",
+    "price": "16.33",
+    "price_per_unit": "$16.33/1 Unit",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-supplies/johnnys-512-mix-20-qt.-9227.html?cgid=organic-supplies"
+}
+{
+    "variety": "Alfalfa/True Clover",
+    "name": "supplies",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "50-60",
+    "life_cycle": "Annual",
+    "price": "6.49",
+    "price_per_unit": "$6.49/1 Unit",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-supplies/alfalfa-true-clover-inoculant-9511.html?cgid=organic-supplies"
+}
+{
+    "variety": "Actinovate\u00ae \u2013 2 Oz.",
+    "name": "supplies",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "50-60",
+    "life_cycle": "Annual",
+    "price": "21.50",
+    "price_per_unit": "$21.50/1 Unit",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-supplies/actinovate-2-oz.-9804.html?cgid=organic-supplies"
+}
+{
+    "variety": "Johnny's Germination Mix \u2013 20 Qt.",
+    "name": "supplies",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "50-60",
+    "life_cycle": "Annual",
+    "price": "16.33",
+    "price_per_unit": "$16.33/1 Unit",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-supplies/johnnys-germination-mix-20-qt.-9395.html?cgid=organic-supplies"
+}
+{
+    "variety": "4\" Round Fertil Pots \u2013 50 Count",
+    "name": "supplies",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "50-60",
+    "life_cycle": "Annual",
+    "price": "21.50",
+    "price_per_unit": "$21.50/1 Unit",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-supplies/4%22-round-fertil-pots-50-count-9083.html?cgid=organic-supplies"
+}
+{
+    "variety": "Plantskydd\u00ae Repellent \u2013 1 Lb.",
+    "name": "supplies",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "50-60",
+    "life_cycle": "Annual",
+    "price": "30.72",
+    "price_per_unit": "$30.72/1 Unit",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-supplies/plantskydd-repellent-1-lb.-9449.html?cgid=organic-supplies"
+}
+{
+    "variety": "3 1/8\" Round Fertil Pots \u2013 90 Count",
+    "name": "supplies",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "50-60",
+    "life_cycle": "Annual",
+    "price": "16.74",
+    "price_per_unit": "$16.74/1 Unit",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-supplies/3-1-8%22-round-fertil-pots-90-count-9315.html?cgid=organic-supplies"
+}
+{
+    "variety": "Neptune's Harvest 2-4-1 \u2013 18 Oz.",
+    "name": "supplies",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "50-60",
+    "life_cycle": "Annual",
+    "price": "16.42",
+    "price_per_unit": "$16.42/1 Unit",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-supplies/neptunes-harvest-2-4-1-18-oz.-fish-fertilizer-9573.html?cgid=organic-supplies"
+}
+{
+    "variety": "Plantskydd\u00ae Repellent Granular \u2013 3.5 Lb.",
+    "name": "supplies",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "50-60",
+    "life_cycle": "Annual",
+    "price": "27.65",
+    "price_per_unit": "$27.65/1 Unit",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-supplies/plantskydd-repellent-granular-3.5-lb.-9695.html?cgid=organic-supplies"
+}
+{
+    "variety": "RootShield\u00ae Home & Garden \u2013 4 Oz.",
+    "name": "supplies",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "50-60",
+    "life_cycle": "Annual",
+    "price": "23.55",
+    "price_per_unit": "$23.55/1 Unit",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-supplies/rootshield-home-garden-4-oz.-9346.html?cgid=organic-supplies"
+}
+{
+    "variety": "Safer\u00ae Insect Soap \u2013 16 Oz.",
+    "name": "supplies",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "50-60",
+    "life_cycle": "Annual",
+    "price": "15.31",
+    "price_per_unit": "$15.31/1 Unit",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-supplies/safer-insect-soap-16-oz.-9370.html?cgid=organic-supplies"
+}
+{
+    "variety": "Soybean",
+    "name": "supplies",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "50-60",
+    "life_cycle": "Annual",
+    "price": "9.95",
+    "price_per_unit": "$9.95/1 Unit",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-supplies/soybean-inoculant-9324.html?cgid=organic-supplies"
+}
+{
+    "variety": "2 1/3\" Round Fertil Pots \u2013 160 Count",
+    "name": "supplies",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "50-60",
+    "life_cycle": "Annual",
+    "price": "15.59",
+    "price_per_unit": "$15.59/1 Unit",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-supplies/2-1-3%22-round-fertil-pots-160-count-9327.html?cgid=organic-supplies"
+}
+{
+    "variety": "20 Cell Fertil Pots Strip \u2013 10 Count",
+    "name": "supplies",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "50-60",
+    "life_cycle": "Annual",
+    "price": "26.62",
+    "price_per_unit": "$26.62/1 Unit",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-supplies/20-cell-fertil-pots-strip-10-count-9211.html?cgid=organic-supplies"
+}
+{
+    "variety": "San Marzano II",
+    "name": "vegetables",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "78",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-vegetables/san-marzano-ii-organic-tomato-seed-3405G.html?cgid=organic-vegetables"
+}
+{
+    "variety": "Cool Customer",
+    "name": "vegetables",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "55",
+    "life_cycle": "Open Pollinated",
+    "price": "4.45",
+    "price_per_unit": "$4.45/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-vegetables/cool-customer-organic-cucumber-seed-3449G.html?cgid=organic-vegetables"
+}
+{
+    "variety": "PLS 141",
+    "name": "vegetables",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "63",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-vegetables/pls-141-organic-pea-seed-3343G.html?cgid=organic-vegetables"
+}
+{
+    "variety": "Acadia",
+    "name": "vegetables",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "27",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-vegetables/acadia-organic-f1-spinach-seed-3565G.html?cgid=organic-vegetables"
+}
+{
+    "variety": "Mardi",
+    "name": "vegetables",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "62",
+    "life_cycle": "Annual",
+    "price": "6.80",
+    "price_per_unit": "$6.80/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-vegetables/mardi-organic-f1-cauliflower-3529G.html?cgid=organic-vegetables"
+}
+{
+    "variety": "Natural Sweet",
+    "name": "vegetables",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "74",
+    "life_cycle": "Annual",
+    "price": "6.25",
+    "price_per_unit": "$6.25/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-vegetables/natural-sweet-organic-f1-corn-seed-3590G.html?cgid=organic-vegetables"
+}
+{
+    "variety": "Wisconsin 55",
+    "name": "vegetables",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "80",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-vegetables/wisconsin-55-organic-tomato-seed-3406G.html?cgid=organic-vegetables"
+}
+{
+    "variety": "Pearl",
+    "name": "vegetables",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "28",
+    "life_cycle": "Annual",
+    "price": "4.45",
+    "price_per_unit": "$4.45/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-vegetables/pearl-organic-radish-seed-3456G.html?cgid=organic-vegetables"
+}
+{
+    "variety": "Blue Beech",
+    "name": "vegetables",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "82",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-vegetables/blue-beech-organic-tomato-seed-3412G.html?cgid=organic-vegetables"
+}
+{
+    "variety": "Benefine",
+    "name": "vegetables",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "48",
+    "life_cycle": "Open Pollinated",
+    "price": "5.40",
+    "price_per_unit": "$5.40/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-vegetables/benefine-organic-endive-seed-3421G.html?cgid=organic-vegetables"
+}
+{
+    "variety": "Mountain Magic",
+    "name": "vegetables",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "66",
+    "life_cycle": "Annual",
+    "price": "5.75",
+    "price_per_unit": "$5.75/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-vegetables/mountain-magic-organic-f1-tomato-seed-2513G.html?cgid=organic-vegetables"
+}
+{
+    "variety": "Vulcan",
+    "name": "vegetables",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "52",
+    "life_cycle": "Annual",
+    "price": "5.40",
+    "price_per_unit": "$5.40/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-vegetables/vulcan-organic-pelleted-lettuce-seed-464GP.html?cgid=organic-vegetables"
+}
+{
+    "variety": "Ruby Streaks",
+    "name": "vegetables",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "21 baby; 40 full size",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-vegetables/ruby-streaks-organic-mustard-green-seed-2740G.html?cgid=organic-vegetables"
+}
+{
+    "variety": "Vulcan",
+    "name": "vegetables",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "52",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-vegetables/vulcan-organic-lettuce-seed-464G.html?cgid=organic-vegetables"
+}
+{
+    "variety": "Chiba Green",
+    "name": "vegetables",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "82",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-vegetables/chiba-green-organic-soybean-seed-3581G.html?cgid=organic-vegetables"
+}
+{
+    "variety": "German Extra Hardy",
+    "name": "vegetables",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "9.15",
+    "price_per_unit": "$9.15/3 Units",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-vegetables/german-extra-hardy-organic-garlic-bulbs-3535G.html?cgid=organic-vegetables"
+}
+{
+    "variety": "Picolino",
+    "name": "vegetables",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "7.50",
+    "price_per_unit": "$7.50/Mini",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-vegetables/picolino-organic-f1-cucumber-seed-3542G.html?cgid=organic-vegetables"
+}
+{
+    "variety": "Tasmanian Chocolate",
+    "name": "vegetables",
+    "category": "organic",
+    "manufacturer": "Johny's",
+    "maturity": "75",
+    "life_cycle": "Annual",
+    "price": "3.95",
+    "price_per_unit": "$3.95/Mini",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/organic/organic-vegetables/tasmanian-chocolate-organic-tomato-seed-3558G.html?cgid=organic-vegetables"
+}

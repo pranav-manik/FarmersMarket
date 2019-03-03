@@ -1,0 +1,2484 @@
+{
+    "variety": "Imperial Star",
+    "name": "artichokes",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "85",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/artichokes/imperial-star-artichoke-seed-2120.html?cgid=artichokes"
+}
+{
+    "variety": "Colorado Star",
+    "name": "artichokes",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "75",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/artichokes/colorado-star-artichoke-seed-3674.html?cgid=artichokes"
+}
+{
+    "variety": "Millennium",
+    "name": "asparagus",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "Standard harvest begins second year after planting",
+    "life_cycle": "Perennial",
+    "price": "40.50",
+    "price_per_unit": "$40.50/25 Units",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/asparagus/millennium-f1-asparagus-crowns-3423.html?cgid=asparagus"
+}
+{
+    "variety": "Millennium",
+    "name": "asparagus",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "Standard harvest begins thrid year after planting",
+    "life_cycle": "Perennial",
+    "price": "4.50",
+    "price_per_unit": "$4.50/Mini",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/asparagus/millennium-f1-asparagus-seeds-3455.html?cgid=asparagus"
+}
+{
+    "variety": "Purple Passion",
+    "name": "asparagus",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "Standard harvest begins second year after planting",
+    "life_cycle": "Perennial",
+    "price": "39.00",
+    "price_per_unit": "$39.00/25 Units",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/asparagus/purple-passion-f1-asparagus-crowns-2225.html?cgid=asparagus"
+}
+{
+    "variety": "Jersey Supreme",
+    "name": "asparagus",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "Standard harvest begins second year after planting",
+    "life_cycle": "Perennial",
+    "price": "39.00",
+    "price_per_unit": "$39.00/25 Units",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/asparagus/jersey-supreme-f1-asparagus-crowns-2754.html?cgid=asparagus"
+}
+{
+    "variety": "Jersey Knight",
+    "name": "asparagus",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "Standard harvest begins third year after planting",
+    "life_cycle": "Perennial",
+    "price": "",
+    "price_per_unit": "",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/asparagus/jersey-knight-f1-asparagus-seed-2039.html?cgid=asparagus"
+}
+{
+    "variety": "Affirmed",
+    "name": "beans",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "56",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/beans/affirmed-bean-seed-3561.html?cgid=beans"
+}
+{
+    "variety": "Karikachi",
+    "name": "beans",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "85",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/beans/karikachi-soybean-seed-3569.html?cgid=beans"
+}
+{
+    "variety": "Chiba Green",
+    "name": "beans",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "82",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/beans/chiba-green-organic-soybean-seed-3581G.html?cgid=beans"
+}
+{
+    "variety": "Fortex",
+    "name": "beans",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "60",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/beans/fortex-bean-seed-34.html?cgid=beans"
+}
+{
+    "variety": "Jade",
+    "name": "beans",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "53",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/beans/jade-organic-bean-seed-16G.html?cgid=beans"
+}
+{
+    "variety": "Provider",
+    "name": "beans",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "50",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/beans/provider-bean-seed-10.html?cgid=beans"
+}
+{
+    "variety": "E-Z Pick",
+    "name": "beans",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "55",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/beans/e-z-pick-organic-bean-seed-2420G.html?cgid=beans"
+}
+{
+    "variety": "Trilogy",
+    "name": "beans",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "55",
+    "life_cycle": "Annual",
+    "price": "5.40",
+    "price_per_unit": "$5.40/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/beans/trilogy-organic-bean-seed-3193G.html?cgid=beans"
+}
+{
+    "variety": "Monte Gusto",
+    "name": "beans",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "58",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/beans/monte-gusto-bean-seed-3169.html?cgid=beans"
+}
+{
+    "variety": "Goldilocks",
+    "name": "beans",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/beans/goldilocks-bean-seed-4390.html?cgid=beans"
+}
+{
+    "variety": "Northeaster",
+    "name": "beans",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "56",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/beans/northeaster-organic-bean-seed-39G.html?cgid=beans"
+}
+{
+    "variety": "Rocdor",
+    "name": "beans",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "52",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/beans/rocdor-organic-bean-seed-26G.html?cgid=beans"
+}
+{
+    "variety": "Carminat",
+    "name": "beans",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "62",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/beans/carminat-bean-seed-3170.html?cgid=beans"
+}
+{
+    "variety": "Tavera",
+    "name": "beans",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "54",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/beans/tavera-organic-bean-seed-19G.html?cgid=beans"
+}
+{
+    "variety": "Pauldor",
+    "name": "beans",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "50",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/beans/pauldor-bean-seed-3688.html?cgid=beans"
+}
+{
+    "variety": "Maxibel",
+    "name": "beans",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "50",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/beans/maxibel-bean-seed-22.html?cgid=beans"
+}
+{
+    "variety": "Amethyst",
+    "name": "beans",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "56",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/beans/amethyst-bean-seed-3011.html?cgid=beans"
+}
+{
+    "variety": "Vroma",
+    "name": "beans",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "75",
+    "life_cycle": "Annual",
+    "price": "4.15",
+    "price_per_unit": "$4.15/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/beans/vroma-bean-seed-3171.html?cgid=beans"
+}
+{
+    "variety": "Red Ace",
+    "name": "beets",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "50",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/beets/red-ace-f1-beet-seed-125.html?cgid=beets"
+}
+{
+    "variety": "Boro",
+    "name": "beets",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/beets/boro-f1-beet-seed-3300.html?cgid=beets"
+}
+{
+    "variety": "Touchstone Gold",
+    "name": "beets",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "55",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/beets/touchstone-gold-organic-beet-seed-2818G.html?cgid=beets"
+}
+{
+    "variety": "Chioggia Guardsmark",
+    "name": "beets",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "55",
+    "life_cycle": "Annual",
+    "price": "4.60",
+    "price_per_unit": "$4.60/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/beets/chioggia-guardsmark-organic-beet-seed-25G.html?cgid=beets"
+}
+{
+    "variety": "Boldor",
+    "name": "beets",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "55",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/beets/boldor-beet-seed-3121.html?cgid=beets"
+}
+{
+    "variety": "Moneta (Monogerm)",
+    "name": "beets",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "46",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/beets/moneta-monogerm-f1-beet-seed-2319.html?cgid=beets"
+}
+{
+    "variety": "Red Ace",
+    "name": "beets",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "50",
+    "life_cycle": "Annual",
+    "price": "4.60",
+    "price_per_unit": "$4.60/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/beets/red-ace-pelleted-f1-beet-seed-125JP.html?cgid=beets"
+}
+{
+    "variety": "Cylindra",
+    "name": "beets",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "54",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/beets/cylindra-f1-beet-seed-2565.html?cgid=beets"
+}
+{
+    "variety": "Boldor",
+    "name": "beets",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "55",
+    "life_cycle": "Annual",
+    "price": "4.50",
+    "price_per_unit": "$4.50/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/beets/boldor-pelleted-beet-seed-3121JP.html?cgid=beets"
+}
+{
+    "variety": "Boro",
+    "name": "beets",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "5.10",
+    "price_per_unit": "$5.10/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/beets/boro-pelleted-f1-beet-seed-3300JP.html?cgid=beets"
+}
+{
+    "variety": "Babybeat",
+    "name": "beets",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "40",
+    "life_cycle": "Open Pollinated",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/beets/babybeat-beet-seed-3871.html?cgid=beets"
+}
+{
+    "variety": "Avalanche",
+    "name": "beets",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "55",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/beets/avalanche-beet-seed-3631.html?cgid=beets"
+}
+{
+    "variety": "Chioggia Guardsmark",
+    "name": "beets",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "55",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/beets/chioggia-guardsmark-beet-seed-25.html?cgid=beets"
+}
+{
+    "variety": "Zeppo",
+    "name": "beets",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "50",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/beets/zeppo-f1-beet-seed-3039.html?cgid=beets"
+}
+{
+    "variety": "Chioggia Guardsmark",
+    "name": "beets",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "55",
+    "life_cycle": "Annual",
+    "price": "5.40",
+    "price_per_unit": "$5.40/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/beets/chioggia-guardsmark-organic-pelleted-beet-seed-25GP.html?cgid=beets"
+}
+{
+    "variety": "Rhonda",
+    "name": "beets",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "60",
+    "life_cycle": "Annual",
+    "price": "4.60",
+    "price_per_unit": "$4.60/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/beets/rhonda-organic-f1-beet-seed-3366G.html?cgid=beets"
+}
+{
+    "variety": "Early Wonder Tall Top",
+    "name": "beets",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "35 baby leaf; 45 full-size leaf; 55 roots",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/beets/early-wonder-tall-top-beet-seed-123.html?cgid=beets"
+}
+{
+    "variety": "Babybeat",
+    "name": "beets",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "40",
+    "life_cycle": "Open Pollinated",
+    "price": "5.10",
+    "price_per_unit": "$5.10/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/beets/babybeat-pelleted-beet-seed-3871JP.html?cgid=beets"
+}
+{
+    "variety": "Emerald Crown",
+    "name": "broccoli",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "59",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/broccoli/emerald-crown-f1-broccoli-seed-3534.html?cgid=broccoli"
+}
+{
+    "variety": "Burgundy",
+    "name": "broccoli",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "37",
+    "life_cycle": "Annual",
+    "price": "7.55",
+    "price_per_unit": "$7.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/broccoli/burgundy-f1-broccoli-seed-3460.html?cgid=broccoli"
+}
+{
+    "variety": "Happy Rich",
+    "name": "broccoli",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "27",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/broccoli/happy-rich-f1-broccoli-seed-2629.html?cgid=broccoli"
+}
+{
+    "variety": "Green Magic",
+    "name": "broccoli",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "57",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/broccoli/green-magic-f1-broccoli-seed-2813.html?cgid=broccoli"
+}
+{
+    "variety": "Belstar",
+    "name": "broccoli",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "66",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/broccoli/belstar-organic-f1-broccoli-seed-2815G.html?cgid=broccoli"
+}
+{
+    "variety": "Gypsy",
+    "name": "broccoli",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "58",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/broccoli/gypsy-f1-broccoli-seed-2413.html?cgid=broccoli"
+}
+{
+    "variety": "Imperial",
+    "name": "broccoli",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "71",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/broccoli/imperial-f1-broccoli-seed-3041.html?cgid=broccoli"
+}
+{
+    "variety": "Diplomat",
+    "name": "broccoli",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "68",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/broccoli/diplomat-f1-broccoli-seed-2696.html?cgid=broccoli"
+}
+{
+    "variety": "Arcadia",
+    "name": "broccoli",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "63",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/broccoli/arcadia-f1-broccoli-seed-139.html?cgid=broccoli"
+}
+{
+    "variety": "Spring Raab",
+    "name": "broccoli",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "42",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/broccoli/spring-raab-broccoli-seed-137.html?cgid=broccoli"
+}
+{
+    "variety": "Blue Wind",
+    "name": "broccoli",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "49",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/broccoli/blue-wind-f1-broccoli-seed-2812.html?cgid=broccoli"
+}
+{
+    "variety": "De Cicco",
+    "name": "broccoli",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "45",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/broccoli/de-cicco-organic-broccoli-seed-148.html?cgid=broccoli"
+}
+{
+    "variety": "Monflor",
+    "name": "broccoli",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "53",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/broccoli/monflor-f1-broccoli-seed-4378.html?cgid=broccoli"
+}
+{
+    "variety": "Spigariello Liscia",
+    "name": "broccoli",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "21 baby; 45 full size",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/broccoli/spigariello-liscia-broccoli-seed-2755.html?cgid=broccoli"
+}
+{
+    "variety": "Marathon",
+    "name": "broccoli",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "68",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/broccoli/marathon-f1-broccoli-seed-151.html?cgid=broccoli"
+}
+{
+    "variety": "Atlantis",
+    "name": "broccoli",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "33",
+    "life_cycle": "Annual",
+    "price": "5.25",
+    "price_per_unit": "$5.25/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/broccoli/atlantis-f1-broccoli-seed-2271.html?cgid=broccoli"
+}
+{
+    "variety": "Santee",
+    "name": "broccoli",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "80-115",
+    "life_cycle": "Annual",
+    "price": "7.55",
+    "price_per_unit": "$7.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/broccoli/santee-f1-broccoli-seed-2515.html?cgid=broccoli"
+}
+{
+    "variety": "Santee",
+    "name": "broccoli",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "80-115",
+    "life_cycle": "Annual",
+    "price": "14.50",
+    "price_per_unit": "$14.50/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/broccoli/santee-organic-f1-broccoli-seed-2515G.html?cgid=broccoli"
+}
+{
+    "variety": "Diablo",
+    "name": "brussels-sprouts",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "110",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/brussels-sprouts/diablo-f1-brussels-sprout-seed-2421.html?cgid=brussels-sprouts"
+}
+{
+    "variety": "Hestia",
+    "name": "brussels-sprouts",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "93",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/brussels-sprouts/hestia-f1-brussels-sprout-seed-3271.html?cgid=brussels-sprouts"
+}
+{
+    "variety": "Dagan",
+    "name": "brussels-sprouts",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "100",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/brussels-sprouts/dagan-f1-brussels-sprout-seed-3633.html?cgid=brussels-sprouts"
+}
+{
+    "variety": "Dagan",
+    "name": "brussels-sprouts",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "100",
+    "life_cycle": "Annual",
+    "price": "7.50",
+    "price_per_unit": "$7.50/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/brussels-sprouts/dagan-organic-f1-brussels-sprout-seed-3633G.html?cgid=brussels-sprouts"
+}
+{
+    "variety": "Churchill",
+    "name": "brussels-sprouts",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "90",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/brussels-sprouts/churchill-f1-brussels-sprout-seed-64.html?cgid=brussels-sprouts"
+}
+{
+    "variety": "Chiko",
+    "name": "burdock",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "120",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/burdock/chiko-burdock-seed-2256.html?cgid=burdock"
+}
+{
+    "variety": "Deadon",
+    "name": "cabbage",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "105",
+    "life_cycle": "Annual",
+    "price": "5.75",
+    "price_per_unit": "$5.75/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cabbage/deadon-organic-f1-cabbage-seed-306G.html?cgid=cabbage"
+}
+{
+    "variety": "Candy Red",
+    "name": "cabbage",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "78",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cabbage/candy-red-cabbage-seed-3567.html?cgid=cabbage"
+}
+{
+    "variety": "Tiara",
+    "name": "cabbage",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "63",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cabbage/tiara-f1-cabbage-seed-3626.html?cgid=cabbage"
+}
+{
+    "variety": "Storage No. 4",
+    "name": "cabbage",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "95",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cabbage/storage-no.-4-f1-cabbage-seed-167.html?cgid=cabbage"
+}
+{
+    "variety": "Farao",
+    "name": "cabbage",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "65",
+    "life_cycle": "Annual",
+    "price": "5.75",
+    "price_per_unit": "$5.75/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/cabbage/farao-organic-f1-cabbage-seed-2110G.html?cgid=cabbage"
+}
+{
+    "variety": "Ruby Perfection",
+    "name": "cabbage",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "85",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cabbage/ruby-perfection-f1-cabbage-seed-177.html?cgid=cabbage"
+}
+{
+    "variety": "Red Express",
+    "name": "cabbage",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "63",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/cabbage/red-express-organic-cabbage-seed-2076G.html?cgid=cabbage"
+}
+{
+    "variety": "Tendersweet",
+    "name": "cabbage",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "71",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cabbage/tendersweet-f1-cabbage-seed-2221.html?cgid=cabbage"
+}
+{
+    "variety": "Caraflex",
+    "name": "cabbage",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "68",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cabbage/caraflex-f1-cabbage-seed-109.html?cgid=cabbage"
+}
+{
+    "variety": "Omero",
+    "name": "cabbage",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "73",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cabbage/omero-f1-cabbage-seed-3627.html?cgid=cabbage"
+}
+{
+    "variety": "Primo Vantage",
+    "name": "cabbage",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "73",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cabbage/primo-vantage-f1-cabbage-seed-3231.html?cgid=cabbage"
+}
+{
+    "variety": "Kaitlin",
+    "name": "cabbage",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "94",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cabbage/kaitlin-f1-cabbage-seed-286.html?cgid=cabbage"
+}
+{
+    "variety": "Integro",
+    "name": "cabbage",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "85",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/cabbage/integro-organic-f1-cabbage-seed-262G.html?cgid=cabbage"
+}
+{
+    "variety": "Alcosa",
+    "name": "cabbage",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "72",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cabbage/alcosa-f1-cabbage-seed-2985.html?cgid=cabbage"
+}
+{
+    "variety": "Famosa",
+    "name": "cabbage",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "75",
+    "life_cycle": "Annual",
+    "price": "5.75",
+    "price_per_unit": "$5.75/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/cabbage/famosa-organic-f1-cabbage-seed-313G.html?cgid=cabbage"
+}
+{
+    "variety": "Caraflex",
+    "name": "cabbage",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "68",
+    "life_cycle": "Annual",
+    "price": "6.45",
+    "price_per_unit": "$6.45/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cabbage/caraflex-organic-f1-cabbage-seed-109G.html?cgid=cabbage"
+}
+{
+    "variety": "Murdoc",
+    "name": "cabbage",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "83",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cabbage/murdoc-f1-cabbage-seed-3260.html?cgid=cabbage"
+}
+{
+    "variety": "Capture",
+    "name": "cabbage",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "87",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cabbage/capture-f1-cabbage-seed-3209.html?cgid=cabbage"
+}
+{
+    "variety": "Porto Spineless",
+    "name": "cardoon",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "100",
+    "life_cycle": "Tender Perennial",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cardoon/porto-spineless-cardoon-seed-1749.html?cgid=cardoon"
+}
+{
+    "variety": "Bolero",
+    "name": "carrots",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "75",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/carrots/bolero-f1-carrot-seed-216.html?cgid=carrots"
+}
+{
+    "variety": "Bolero",
+    "name": "carrots",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "75",
+    "life_cycle": "Annual",
+    "price": "5.00",
+    "price_per_unit": "$5.00/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/carrots/bolero-pelleted-f1-carrot-seed-216JP.html?cgid=carrots"
+}
+{
+    "variety": "Mokum",
+    "name": "carrots",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "36 baby; 54 full size",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/carrots/mokum-f1-carrot-seed-2186.html?cgid=carrots"
+}
+{
+    "variety": "Hercules",
+    "name": "carrots",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "65",
+    "life_cycle": "Annual",
+    "price": "5.40",
+    "price_per_unit": "$5.40/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/carrots/hercules-pelleted-f1-carrot-seed-2735JP.html?cgid=carrots"
+}
+{
+    "variety": "Romance",
+    "name": "carrots",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "70",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/carrots/romance-f1-carrot-seed-3116.html?cgid=carrots"
+}
+{
+    "variety": "Purple Haze",
+    "name": "carrots",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "73",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/carrots/purple-haze-f1-carrot-seed-2680.html?cgid=carrots"
+}
+{
+    "variety": "Sugarsnax 54",
+    "name": "carrots",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "68",
+    "life_cycle": "Annual",
+    "price": "5.00",
+    "price_per_unit": "$5.00/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/carrots/sugarsnax-54-pelleted-f1-carrot-seed-2322JP.html?cgid=carrots"
+}
+{
+    "variety": "Romance",
+    "name": "carrots",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "70",
+    "life_cycle": "Annual",
+    "price": "5.40",
+    "price_per_unit": "$5.40/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/carrots/romance-pelleted-f1-carrot-seed-3116JP.html?cgid=carrots"
+}
+{
+    "variety": "Sugarsnax 54",
+    "name": "carrots",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "68",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/carrots/sugarsnax-54-f1-carrot-seed-2322.html?cgid=carrots"
+}
+{
+    "variety": "Hercules",
+    "name": "carrots",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "65",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/carrots/hercules-f1-carrot-seed-2735.html?cgid=carrots"
+}
+{
+    "variety": "Purple Haze",
+    "name": "carrots",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "73",
+    "life_cycle": "Annual",
+    "price": "5.00",
+    "price_per_unit": "$5.00/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/carrots/purple-haze-pelleted-f1-carrot-seed-2680JP.html?cgid=carrots"
+}
+{
+    "variety": "Rainbow",
+    "name": "carrots",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "67",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/carrots/rainbow-f1-carrot-seed-2414.html?cgid=carrots"
+}
+{
+    "variety": "Yaya",
+    "name": "carrots",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "56",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/carrots/yaya-organic-f1-carrot-seed-2681G.html?cgid=carrots"
+}
+{
+    "variety": "Malbec",
+    "name": "carrots",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "70",
+    "life_cycle": "Hybrid (F1)",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/carrots/malbec-f1-carrot-seed-3292.html?cgid=carrots"
+}
+{
+    "variety": "Napoli",
+    "name": "carrots",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "58 summer sowing, more from fall sowing",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/carrots/napoli-organic-f1-carrot-seed-209G.html?cgid=carrots"
+}
+{
+    "variety": "Mokum",
+    "name": "carrots",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "36 baby, 54 full size",
+    "life_cycle": "Annual",
+    "price": "5.00",
+    "price_per_unit": "$5.00/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/carrots/mokum-pelleted-f1-carrot-seed-2186JP.html?cgid=carrots"
+}
+{
+    "variety": "Malbec",
+    "name": "carrots",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "70",
+    "life_cycle": "Hybrid (F1)",
+    "price": "5.00",
+    "price_per_unit": "$5.00/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/carrots/malbec-pelleted-f1-carrot-seed-3292JP.html?cgid=carrots"
+}
+{
+    "variety": "Rainbow",
+    "name": "carrots",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "67",
+    "life_cycle": "Annual",
+    "price": "5.00",
+    "price_per_unit": "$5.00/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/carrots/rainbow-pelleted-f1-carrot-seed-2414JP.html?cgid=carrots"
+}
+{
+    "variety": "Mardi",
+    "name": "cauliflower",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "62",
+    "life_cycle": "Annual",
+    "price": "6.80",
+    "price_per_unit": "$6.80/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/cauliflower/mardi-organic-f1-cauliflower-3529G.html?cgid=cauliflower"
+}
+{
+    "variety": "Fioretto 70",
+    "name": "cauliflower",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "70",
+    "life_cycle": "Annual",
+    "price": "7.95",
+    "price_per_unit": "$7.95/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cauliflower/fioretto-70-f1-sprouting-cauliflower-seed-3461.html?cgid=cauliflower"
+}
+{
+    "variety": "Snow Crown",
+    "name": "cauliflower",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "50",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cauliflower/snow-crown-f1-cauliflower-seed-230.html?cgid=cauliflower"
+}
+{
+    "variety": "Graffiti",
+    "name": "cauliflower",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "80",
+    "life_cycle": "Annual",
+    "price": "8.25",
+    "price_per_unit": "$8.25/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cauliflower/graffiti-f1-cauliflower-seed-2255.html?cgid=cauliflower"
+}
+{
+    "variety": "Bishop",
+    "name": "cauliflower",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "65",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cauliflower/bishop-f1-cauliflower-seed-3832.html?cgid=cauliflower"
+}
+{
+    "variety": "Amazing",
+    "name": "cauliflower",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "68",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cauliflower/amazing-cauliflower-seed-223.html?cgid=cauliflower"
+}
+{
+    "variety": "Flame Star",
+    "name": "cauliflower",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "62",
+    "life_cycle": "Annual",
+    "price": "8.25",
+    "price_per_unit": "$8.25/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cauliflower/flame-star-f1-cauliflower-seed-3342.html?cgid=cauliflower"
+}
+{
+    "variety": "Puntoverde AKA 26-701",
+    "name": "cauliflower",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "78",
+    "life_cycle": "Annual",
+    "price": "7.95",
+    "price_per_unit": "$7.95/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cauliflower/puntoverde-aka-26-701-f1-cauliflower-seed-4374.html?cgid=cauliflower"
+}
+{
+    "variety": "Denali",
+    "name": "cauliflower",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "73",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cauliflower/denali-f1-cauliflower-seed-3014.html?cgid=cauliflower"
+}
+{
+    "variety": "Vitaverde",
+    "name": "cauliflower",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "71",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cauliflower/vitaverde-f1-cauliflower-seed-3097.html?cgid=cauliflower"
+}
+{
+    "variety": "Veronica",
+    "name": "cauliflower",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "78",
+    "life_cycle": "Annual",
+    "price": "7.95",
+    "price_per_unit": "$7.95/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/cauliflower/veronica-organic-f1-cauliflower-seed-2956G.html?cgid=cauliflower"
+}
+{
+    "variety": "Skywalker",
+    "name": "cauliflower",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "80",
+    "life_cycle": "Annual",
+    "price": "6.80",
+    "price_per_unit": "$6.80/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cauliflower/skywalker-organic-f1-cauliflower-seed-2593G.html?cgid=cauliflower"
+}
+{
+    "variety": "Cheddar",
+    "name": "cauliflower",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "58",
+    "life_cycle": "Annual",
+    "price": "5.40",
+    "price_per_unit": "$5.40/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cauliflower/cheddar-f1-cauliflower-seed-2954.html?cgid=cauliflower"
+}
+{
+    "variety": "Veronica",
+    "name": "cauliflower",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "78",
+    "life_cycle": "Annual",
+    "price": "6.90",
+    "price_per_unit": "$6.90/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cauliflower/veronica-f1-cauliflower-seed-2956.html?cgid=cauliflower"
+}
+{
+    "variety": "Janvel",
+    "name": "cauliflower",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "77",
+    "life_cycle": "Annual",
+    "price": "6.80",
+    "price_per_unit": "$6.80/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/cauliflower/janvel-organic-f1-cauliflower-3419G.html?cgid=cauliflower"
+}
+{
+    "variety": "Tango",
+    "name": "celery-and-celeriac",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "80",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/celery-and-celeriac/tango-organic-celery-seed-647G.html?cgid=celery-and-celeriac"
+}
+{
+    "variety": "Tango",
+    "name": "celery-and-celeriac",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "80",
+    "life_cycle": "Annual",
+    "price": "5.40",
+    "price_per_unit": "$5.40/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/celery-and-celeriac/tango-organic-pelleted-celery-seed-647GP.html?cgid=celery-and-celeriac"
+}
+{
+    "variety": "Mars",
+    "name": "celery-and-celeriac",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "95",
+    "life_cycle": "Annual",
+    "price": "5.45",
+    "price_per_unit": "$5.45/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/celery-and-celeriac/mars-organic-celeriac-seed-660G.html?cgid=celery-and-celeriac"
+}
+{
+    "variety": "Mars",
+    "name": "celery-and-celeriac",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "95",
+    "life_cycle": "Open Pollinated",
+    "price": "5.40",
+    "price_per_unit": "$5.40/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/celery-and-celeriac/mars-organic-pelleted-celeriac-seed-660GP.html?cgid=celery-and-celeriac"
+}
+{
+    "variety": "Brilliant",
+    "name": "celery-and-celeriac",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "100",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/celery-and-celeriac/brilliant-celeriac-seed-245.html?cgid=celery-and-celeriac"
+}
+{
+    "variety": "Conquistador",
+    "name": "celery-and-celeriac",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "80",
+    "life_cycle": "Annual",
+    "price": "5.40",
+    "price_per_unit": "$5.40/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/celery-and-celeriac/conquistador-pelleted-celery-seed-2607JP.html?cgid=celery-and-celeriac"
+}
+{
+    "variety": "Brilliant",
+    "name": "celery-and-celeriac",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "100",
+    "life_cycle": "Annual",
+    "price": "5.10",
+    "price_per_unit": "$5.10/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/celery-and-celeriac/brilliant-pelleted-celeriac-seed-245JP.html?cgid=celery-and-celeriac"
+}
+{
+    "variety": "Benefine",
+    "name": "chicory",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "48",
+    "life_cycle": "Open Pollinated",
+    "price": "5.40",
+    "price_per_unit": "$5.40/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/chicory/benefine-organic-endive-seed-3421G.html?cgid=chicory"
+}
+{
+    "variety": "Indigo",
+    "name": "chicory",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "65",
+    "life_cycle": "Annual",
+    "price": "7.55",
+    "price_per_unit": "$7.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/chicory/indigo-f1-pelleted-radicchio-seed-2245JP.html?cgid=chicory"
+}
+{
+    "variety": "Fiero",
+    "name": "chicory",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "66",
+    "life_cycle": "Biennial",
+    "price": "6.80",
+    "price_per_unit": "$6.80/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/chicory/fiero-organic-f1-radicchio-seed-2278G.html?cgid=chicory"
+}
+{
+    "variety": "Curlesi",
+    "name": "chicory",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "52",
+    "life_cycle": "Annual",
+    "price": "5.25",
+    "price_per_unit": "$5.25/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/chicory/curlesi-endive-seed-3448.html?cgid=chicory"
+}
+{
+    "variety": "Benefine",
+    "name": "chicory",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "48",
+    "life_cycle": "Annual",
+    "price": "5.40",
+    "price_per_unit": "$5.40/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/chicory/benefine-organic-pelleted-endive-seed-3421GP.html?cgid=chicory"
+}
+{
+    "variety": "Natacha",
+    "name": "chicory",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "50",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/chicory/natacha-escarole-seed-2614.html?cgid=chicory"
+}
+{
+    "variety": "Indigo",
+    "name": "chicory",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "65",
+    "life_cycle": "Annual",
+    "price": "6.80",
+    "price_per_unit": "$6.80/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/chicory/indigo-f1-radicchio-seed-2245.html?cgid=chicory"
+}
+{
+    "variety": "Bel Fiore",
+    "name": "chicory",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "60",
+    "life_cycle": "Annual",
+    "price": "4.95",
+    "price_per_unit": "$4.95/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/chicory/bel-fiore-radicchio-seed-3113.html?cgid=chicory"
+}
+{
+    "variety": "Clio",
+    "name": "chicory",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "48",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/chicory/clio-f1-italian-dandelion-seed-2634.html?cgid=chicory"
+}
+{
+    "variety": "Perseo",
+    "name": "chicory",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "55",
+    "life_cycle": "Annual",
+    "price": "4.95",
+    "price_per_unit": "$4.95/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/chicory/perseo-radicchio-seed-3099.html?cgid=chicory"
+}
+{
+    "variety": "Eros",
+    "name": "chicory",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "45",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/chicory/eros-organic-escarole-seed-2811G.html?cgid=chicory"
+}
+{
+    "variety": "Virtus",
+    "name": "chicory",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "68",
+    "life_cycle": "Annual",
+    "price": "6.45",
+    "price_per_unit": "$6.45/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/chicory/virtus-organic-f1-radicchio-seed-2462G.html?cgid=chicory"
+}
+{
+    "variety": "Totem",
+    "name": "chicory",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "115 for root",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/chicory/totem-organic-f1-endive-seed-2320G.html?cgid=chicory"
+}
+{
+    "variety": "Leonardo",
+    "name": "chicory",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "65",
+    "life_cycle": "Annual",
+    "price": "6.45",
+    "price_per_unit": "$6.45/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/chicory/leonardo-organic-f1-radicchio-seed-2555G.html?cgid=chicory"
+}
+{
+    "variety": "Italiko Red",
+    "name": "chicory",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "35 baby; 56 full size",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/chicory/italiko-red-italian-dandelion-seed-3358.html?cgid=chicory"
+}
+{
+    "variety": "Catalogna Special",
+    "name": "chicory",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "28 baby; 48 full size",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/chicory/catalogna-special-italian-dandelion-seed-375.html?cgid=chicory"
+}
+{
+    "variety": "Leonardo",
+    "name": "chicory",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "65",
+    "life_cycle": "Hybrid (F1)",
+    "price": "6.45",
+    "price_per_unit": "$6.45/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/chicory/leonardo-f1-radicchio-seed-2555.html?cgid=chicory"
+}
+{
+    "variety": "Fiero",
+    "name": "chicory",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "66",
+    "life_cycle": "Biennial",
+    "price": "6.80",
+    "price_per_unit": "$6.80/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/chicory/fiero-f1-radicchio-seed-2278.html?cgid=chicory"
+}
+{
+    "variety": "Minuet",
+    "name": "chinese-cabbage",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "48",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/chinese-cabbage/minuet-f1-chinese-cabbage-seed-2901.html?cgid=chinese-cabbage"
+}
+{
+    "variety": "Rubicon",
+    "name": "chinese-cabbage",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "52",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/chinese-cabbage/rubicon-f1-chinese-cabbage-seed-2246.html?cgid=chinese-cabbage"
+}
+{
+    "variety": "Bilko",
+    "name": "chinese-cabbage",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "54",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/chinese-cabbage/bilko-organic-f1-chinese-cabbage-seed-2814G.html?cgid=chinese-cabbage"
+}
+{
+    "variety": "Red Dragon",
+    "name": "chinese-cabbage",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "60",
+    "life_cycle": "Hybrid (F1)",
+    "price": "5.25",
+    "price_per_unit": "$5.25/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/chinese-cabbage/red-dragon-f1-chinese-cabbage-seed-3643.html?cgid=chinese-cabbage"
+}
+{
+    "variety": "Tokyo Bekana",
+    "name": "chinese-cabbage",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "21 baby; 45 full size",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/chinese-cabbage/tokyo-bekana-asian-green-seed-2251.html?cgid=chinese-cabbage"
+}
+{
+    "variety": "Flash",
+    "name": "collards",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "55",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/collards/flash-f1-collard-seed-2116.html?cgid=collards"
+}
+{
+    "variety": "Tiger",
+    "name": "collards",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "50",
+    "life_cycle": "Hybrid (F1)",
+    "price": "",
+    "price_per_unit": "",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/collards/tiger-f1-collard-seed-3775.html?cgid=collards"
+}
+{
+    "variety": "Champion",
+    "name": "collards",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "60",
+    "life_cycle": "Annual",
+    "price": "",
+    "price_per_unit": "",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/collards/champion-collard-seed-366.html?cgid=collards"
+}
+{
+    "variety": "Top Bunch",
+    "name": "collards",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "50",
+    "life_cycle": "Annual",
+    "price": "",
+    "price_per_unit": "",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/collards/top-bunch-f1-collard-seed-2190.html?cgid=collards"
+}
+{
+    "variety": "Natural Sweet",
+    "name": "corn",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "74",
+    "life_cycle": "Annual",
+    "price": "6.25",
+    "price_per_unit": "$6.25/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/corn/natural-sweet-organic-f1-corn-seed-3590G.html?cgid=corn"
+}
+{
+    "variety": "Temptress",
+    "name": "corn",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "4.25",
+    "price_per_unit": "$4.25/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/corn/temptress-treated-f1-corn-seed-3413T.html?cgid=corn"
+}
+{
+    "variety": "Temptress",
+    "name": "corn",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "4.25",
+    "price_per_unit": "$4.25/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/corn/temptress-f1-corn-seed-3413.html?cgid=corn"
+}
+{
+    "variety": "Enchanted",
+    "name": "corn",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "6.25",
+    "price_per_unit": "$6.25/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/corn/enchanted-organic-f1-corn-seed-3568G.html?cgid=corn"
+}
+{
+    "variety": "Nana",
+    "name": "corn",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "105",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/corn/nana-f1-corn-seed-3575.html?cgid=corn"
+}
+{
+    "variety": "Sweetness",
+    "name": "corn",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "68",
+    "life_cycle": "Hybrid (F1)",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/corn/sweetness-f1-treated-corn-seed-6119T.html?cgid=corn"
+}
+{
+    "variety": "Xtra-Tender 20173",
+    "name": "corn",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "73",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/corn/xtra-tender-20173-treated-f1-corn-seed-3262T.html?cgid=corn"
+}
+{
+    "variety": "Sugar Buns",
+    "name": "corn",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "70",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/corn/sugar-buns-treated-f1-corn-seed-267T.html?cgid=corn"
+}
+{
+    "variety": "Xtra-Tender 2171",
+    "name": "corn",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "71",
+    "life_cycle": "Annual",
+    "price": "6.25",
+    "price_per_unit": "$6.25/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/corn/xtra-tender-2171-organic-f1-corn-seed-3895G.html?cgid=corn"
+}
+{
+    "variety": "American Dream",
+    "name": "corn",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "4.25",
+    "price_per_unit": "$4.25/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/corn/american-dream-treated-f1-corn-seed-4393T.html?cgid=corn"
+}
+{
+    "variety": "Robust 997",
+    "name": "corn",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "112",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/corn/robust-997-f1-corn-seed-93.html?cgid=corn"
+}
+{
+    "variety": "Vision MXR",
+    "name": "corn",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/corn/vision-mxr-treated-f1-corn-seed-6073T.html?cgid=corn"
+}
+{
+    "variety": "Kickoff XR",
+    "name": "corn",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/corn/kickoff-xr-treated-f1-corn-seed-3345T.html?cgid=corn"
+}
+{
+    "variety": "Sugar Buns",
+    "name": "corn",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "70",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/corn/sugar-buns-f1-corn-seed-267.html?cgid=corn"
+}
+{
+    "variety": "Silver Queen",
+    "name": "corn",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "91",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/corn/silver-queen-treated-f1-corn-seed-283T.html?cgid=corn"
+}
+{
+    "variety": "Sweetness",
+    "name": "corn",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "68",
+    "life_cycle": "Hybrid (F1)",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/corn/sweetness-f1-corn-seed-6118.html?cgid=corn"
+}
+{
+    "variety": "American Dream",
+    "name": "corn",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "4.25",
+    "price_per_unit": "$4.25/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/corn/american-dream-f1-corn-seed-4393.html?cgid=corn"
+}
+{
+    "variety": "Montauk",
+    "name": "corn",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "81",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/corn/montauk-treated-f1-corn-seed-2761T.html?cgid=corn"
+}
+{
+    "variety": "Cool Customer",
+    "name": "cucumbers",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "55",
+    "life_cycle": "Open Pollinated",
+    "price": "4.45",
+    "price_per_unit": "$4.45/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/cucumbers/cool-customer-organic-cucumber-seed-3449G.html?cgid=cucumbers"
+}
+{
+    "variety": "Nokya",
+    "name": "cucumbers",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cucumbers/nokya-f1-cucumber-seed-3524.html?cgid=cucumbers"
+}
+{
+    "variety": "Bristol",
+    "name": "cucumbers",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "54",
+    "life_cycle": "Annual",
+    "price": "4.25",
+    "price_per_unit": "$4.25/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cucumbers/bristol-f1-cucumber-seed-3540.html?cgid=cucumbers"
+}
+{
+    "variety": "Itachi",
+    "name": "cucumbers",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "54",
+    "life_cycle": "Hybrid (F1)",
+    "price": "5.95",
+    "price_per_unit": "$5.95/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cucumbers/itachi-f1-cucumber-seed-3436.html?cgid=cucumbers"
+}
+{
+    "variety": "Citadel",
+    "name": "cucumbers",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cucumbers/citadel-f1-cucumber-seed-3541.html?cgid=cucumbers"
+}
+{
+    "variety": "Picolino",
+    "name": "cucumbers",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "50",
+    "life_cycle": "Annual",
+    "price": "6.35",
+    "price_per_unit": "$6.35/Mini",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cucumbers/picolino-f1-cucumber-seed-3542.html?cgid=cucumbers"
+}
+{
+    "variety": "Picolino",
+    "name": "cucumbers",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "7.50",
+    "price_per_unit": "$7.50/Mini",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/cucumbers/picolino-organic-f1-cucumber-seed-3542G.html?cgid=cucumbers"
+}
+{
+    "variety": "Quirk",
+    "name": "cucumbers",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "14.50",
+    "price_per_unit": "$14.50/Mini",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cucumbers/quirk-f1-cucumber-seed-3408.html?cgid=cucumbers"
+}
+{
+    "variety": "Poniente",
+    "name": "cucumbers",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "56",
+    "life_cycle": "Annual",
+    "price": "10.50",
+    "price_per_unit": "$10.50/Mini",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cucumbers/poniente-organic-f1-cucumber-seed-4379G.html?cgid=cucumbers"
+}
+{
+    "variety": "Corinto",
+    "name": "cucumbers",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "48",
+    "life_cycle": "Annual",
+    "price": "6.45",
+    "price_per_unit": "$6.45/Mini",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/cucumbers/corinto-organic-f1-cucumber-seed-2562G.html?cgid=cucumbers"
+}
+{
+    "variety": "Max Pack",
+    "name": "cucumbers",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "55",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cucumbers/max-pack-f1-cucumber-seed-3346.html?cgid=cucumbers"
+}
+{
+    "variety": "Diva",
+    "name": "cucumbers",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "58",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cucumbers/diva-cucumber-seed-2198.html?cgid=cucumbers"
+}
+{
+    "variety": "Olympian",
+    "name": "cucumbers",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "52",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cucumbers/olympian-treated-f1-cucumber-seed-2903T.html?cgid=cucumbers"
+}
+{
+    "variety": "Marketmore 76",
+    "name": "cucumbers",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "58",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/cucumbers/marketmore-76-organic-cucumber-seed-336G.html?cgid=cucumbers"
+}
+{
+    "variety": "Diva",
+    "name": "cucumbers",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "58",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cucumbers/diva-treated-cucumber-seed-2198T.html?cgid=cucumbers"
+}
+{
+    "variety": "Olympian",
+    "name": "cucumbers",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "52",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cucumbers/olympian-f1-cucumber-seed-2903.html?cgid=cucumbers"
+}
+{
+    "variety": "Adam Gherkin",
+    "name": "cucumbers",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/cucumbers/adam-gherkin-organic-f1-cucumber-seed-2563G.html?cgid=cucumbers"
+}
+{
+    "variety": "Marketmore 76",
+    "name": "cucumbers",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "58",
+    "life_cycle": "Annual",
+    "price": "3.55",
+    "price_per_unit": "$3.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/cucumbers/marketmore-76-cucumber-seed-336.html?cgid=cucumbers"
+}
+{
+    "variety": "Comprido Verde Claro",
+    "name": "eggplant",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "80",
+    "life_cycle": "Open Pollinated",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/eggplant/comprido-verde-claro-eggplant-seed-2194.html?cgid=eggplant"
+}
+{
+    "variety": "Orient Express",
+    "name": "eggplant",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "58",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/eggplant/orient-express-f1-eggplant-seed-354.html?cgid=eggplant"
+}
+{
+    "variety": "Nadia",
+    "name": "eggplant",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "67",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/eggplant/nadia-f1-eggplant-seed-2267.html?cgid=eggplant"
+}
+{
+    "variety": "Galine",
+    "name": "eggplant",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "65",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/eggplant/galine-f1-eggplant-seed-2829.html?cgid=eggplant"
+}
+{
+    "variety": "Fairy Tale",
+    "name": "eggplant",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "65",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/eggplant/fairy-tale-f1-eggplant-seed-2260.html?cgid=eggplant"
+}
+{
+    "variety": "Orient Charm",
+    "name": "eggplant",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "65",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/eggplant/orient-charm-f1-eggplant-seed-2201.html?cgid=eggplant"
+}
+{
+    "variety": "Dancer",
+    "name": "eggplant",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "65",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/eggplant/dancer-f1-eggplant-seed-2820.html?cgid=eggplant"
+}
+{
+    "variety": "Traviata",
+    "name": "eggplant",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "70",
+    "life_cycle": "Annual",
+    "price": "7.55",
+    "price_per_unit": "$7.55/Packet",
+    "organic": true,
+    "url": "https://www.johnnyseeds.com/vegetables/eggplant/traviata-organic-f1-eggplant-seed-2575G.html?cgid=eggplant"
+}
+{
+    "variety": "Paloma",
+    "name": "eggplant",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "65",
+    "life_cycle": "Hybrid (F1)",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/eggplant/paloma-f1-eggplant-seed-3370.html?cgid=eggplant"
+}
+{
+    "variety": "Patio Baby",
+    "name": "eggplant",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "50",
+    "life_cycle": "Hybrid (F1)",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/eggplant/patio-baby-f1-eggplant-seed-3747.html?cgid=eggplant"
+}
+{
+    "variety": "Nubia",
+    "name": "eggplant",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "68",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/eggplant/nubia-f1-eggplant-seed-657.html?cgid=eggplant"
+}
+{
+    "variety": "Hansel",
+    "name": "eggplant",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "55",
+    "life_cycle": "Annual",
+    "price": "5.40",
+    "price_per_unit": "$5.40/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/eggplant/hansel-f1-eggplant-seed-240.html?cgid=eggplant"
+}
+{
+    "variety": "Barbarella",
+    "name": "eggplant",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "65",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/eggplant/barbarella-f1-eggplant-seed-2558.html?cgid=eggplant"
+}
+{
+    "variety": "Calliope",
+    "name": "eggplant",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "64",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/eggplant/calliope-f1-eggplant-seed-2433.html?cgid=eggplant"
+}
+{
+    "variety": "Aretussa",
+    "name": "eggplant",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "60",
+    "life_cycle": "Annual",
+    "price": "7.55",
+    "price_per_unit": "$7.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/eggplant/aretussa-f1-eggplant-seed-3759.html?cgid=eggplant"
+}
+{
+    "variety": "Gretel",
+    "name": "eggplant",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "55",
+    "life_cycle": "Annual",
+    "price": "5.40",
+    "price_per_unit": "$5.40/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/eggplant/gretel-f1-eggplant-seed-241.html?cgid=eggplant"
+}
+{
+    "variety": "Kermit",
+    "name": "eggplant",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "60",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/eggplant/kermit-f1-eggplant-seed-2117.html?cgid=eggplant"
+}
+{
+    "variety": "Clara",
+    "name": "eggplant",
+    "category": "vegetables",
+    "manufacturer": "Johny's",
+    "maturity": "65",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/eggplant/clara-f1-eggplant-seed-2615.html?cgid=eggplant"
+}

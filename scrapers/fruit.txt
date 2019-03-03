@@ -1,0 +1,768 @@
+{
+    "variety": "Prime Ark\u00ae Freedom",
+    "name": "blackberry",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "Everbearing",
+    "life_cycle": "Perennial",
+    "price": "40.00",
+    "price_per_unit": "$40.00/5 Units",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/fruits/blackberry/prime-ark-freedom-blackberry-plants-3287.html?cgid=blackberry"
+}
+{
+    "variety": "Blueberry Plant Collection",
+    "name": "blueberry",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "Begins fruiting second to third year after planting",
+    "life_cycle": "Perennial",
+    "price": "48.00",
+    "price_per_unit": "$48.00/1 Unit",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/fruits/blueberry/blueberry-plant-collection-2503.html?cgid=blueberry"
+}
+{
+    "variety": "Hannah's Choice",
+    "name": "melons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/melons/hannahs-choice-f1-melon-seed-3560.html?cgid=melons"
+}
+{
+    "variety": "Torpedo",
+    "name": "melons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "65",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/melons/torpedo-f1-melon-seed-3416.html?cgid=melons"
+}
+{
+    "variety": "Savor",
+    "name": "melons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "78",
+    "life_cycle": "Annual",
+    "price": "6.35",
+    "price_per_unit": "$6.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/melons/savor-f1-melon-seed-462.html?cgid=melons"
+}
+{
+    "variety": "Sugar Cube",
+    "name": "melons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "5.00",
+    "price_per_unit": "$5.00/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/melons/sugar-cube-f1-melon-seed-4399.html?cgid=melons"
+}
+{
+    "variety": "Honey Blonde",
+    "name": "melons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "71",
+    "life_cycle": "Annual",
+    "price": "5.00",
+    "price_per_unit": "$5.00/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/melons/honey-blonde-f1-melon-seed-3640.html?cgid=melons"
+}
+{
+    "variety": "Lilly",
+    "name": "melons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "78",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/melons/lilly-f1-melon-seed-2481.html?cgid=melons"
+}
+{
+    "variety": "Athena",
+    "name": "melons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "5.00",
+    "price_per_unit": "$5.00/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/melons/athena-f1-melon-seed-457.html?cgid=melons"
+}
+{
+    "variety": "Sweet Granite",
+    "name": "melons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/melons/sweet-granite-organic-melon-seed-459.html?cgid=melons"
+}
+{
+    "variety": "Halona",
+    "name": "melons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/melons/halona-f1-melon-seed-2488.html?cgid=melons"
+}
+{
+    "variety": "Diplomat",
+    "name": "melons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "71",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/melons/diplomat-f1-melon-seed-2835.html?cgid=melons"
+}
+{
+    "variety": "Honey White",
+    "name": "melons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "77",
+    "life_cycle": "Annual",
+    "price": "5.00",
+    "price_per_unit": "$5.00/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/melons/honey-white-f1-melon-seed-3879.html?cgid=melons"
+}
+{
+    "variety": "Lambkin",
+    "name": "melons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "75",
+    "life_cycle": "Annual",
+    "price": "5.40",
+    "price_per_unit": "$5.40/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/melons/lambkin-f1-melon-seed-3012.html?cgid=melons"
+}
+{
+    "variety": "Divergent",
+    "name": "melons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "",
+    "life_cycle": "",
+    "price": "7.10",
+    "price_per_unit": "$7.10/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/melons/divergent-organic-f1-melon-seed-3760G.html?cgid=melons"
+}
+{
+    "variety": "Arava",
+    "name": "melons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "77",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/melons/arava-organic-f1-melon-seed-460G.html?cgid=melons"
+}
+{
+    "variety": "Brilliant",
+    "name": "melons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "75",
+    "life_cycle": "Annual",
+    "price": "5.00",
+    "price_per_unit": "$5.00/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/melons/brilliant-f1-melon-seed-53.html?cgid=melons"
+}
+{
+    "variety": "Snow Leopard",
+    "name": "melons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "71",
+    "life_cycle": "Annual",
+    "price": "8.25",
+    "price_per_unit": "$8.25/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/melons/snow-leopard-f1-melon-seed-638.html?cgid=melons"
+}
+{
+    "variety": "San Juan",
+    "name": "melons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "78",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/melons/san-juan-f1-melon-seed-2646.html?cgid=melons"
+}
+{
+    "variety": "Honey Orange",
+    "name": "melons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "74",
+    "life_cycle": "Annual",
+    "price": "5.00",
+    "price_per_unit": "$5.00/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/melons/honey-orange-f1-melon-seed-2086.html?cgid=melons"
+}
+{
+    "variety": "Red Raspberry Plant Collection",
+    "name": "raspberry",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "Begins fruiting second year after planting",
+    "life_cycle": "Perennial",
+    "price": "51.00",
+    "price_per_unit": "$51.00/1 Unit",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/fruits/raspberry/red-raspberry-plant-collection-40.html?cgid=raspberry"
+}
+{
+    "variety": "Anne",
+    "name": "raspberry",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "Begins fruiting second year after planting",
+    "life_cycle": "Perennial",
+    "price": "26.00",
+    "price_per_unit": "$26.00/5 Units",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/fruits/raspberry/anne-raspberry-plants-134.html?cgid=raspberry"
+}
+{
+    "variety": "Nova",
+    "name": "raspberry",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "Begins fruiting second year after planting",
+    "life_cycle": "Perennial",
+    "price": "26.00",
+    "price_per_unit": "$26.00/5 Units",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/fruits/raspberry/nova-raspberry-plants-2982.html?cgid=raspberry"
+}
+{
+    "variety": "Jewel",
+    "name": "raspberry",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "Begins fruiting second year after planting",
+    "life_cycle": "Perennial",
+    "price": "33.00",
+    "price_per_unit": "$33.00/5 Units",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/fruits/raspberry/jewel-black-raspberry-plants-2600.html?cgid=raspberry"
+}
+{
+    "variety": "Caroline",
+    "name": "raspberry",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "Begins fruiting second year after planting",
+    "life_cycle": "Perennial",
+    "price": "26.00",
+    "price_per_unit": "$26.00/5 Units",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/fruits/raspberry/caroline-raspberry-plants-2980.html?cgid=raspberry"
+}
+{
+    "variety": "Polana",
+    "name": "raspberry",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "Begins fruiting second year after planting",
+    "life_cycle": "Perennial",
+    "price": "26.00",
+    "price_per_unit": "$26.00/5 Units",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/fruits/raspberry/polana-raspberry-plants-2979.html?cgid=raspberry"
+}
+{
+    "variety": "Prelude",
+    "name": "raspberry",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "Begins fruiting second year after planting",
+    "life_cycle": "Perennial",
+    "price": "26.00",
+    "price_per_unit": "$26.00/5 Units",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/fruits/raspberry/prelude-raspberry-plants-3285.html?cgid=raspberry"
+}
+{
+    "variety": "Killarney",
+    "name": "raspberry",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "Begins fruiting second year after planting",
+    "life_cycle": "Perennial",
+    "price": "26.00",
+    "price_per_unit": "$26.00/5 Units",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/fruits/raspberry/killarney-raspberry-plants-2981.html?cgid=raspberry"
+}
+{
+    "variety": "Encore",
+    "name": "raspberry",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "Begins fruiting second year after planting",
+    "life_cycle": "Perennial",
+    "price": "26.00",
+    "price_per_unit": "$26.00/5 Units",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/fruits/raspberry/encore-raspberry-plants-2745.html?cgid=raspberry"
+}
+{
+    "variety": "Victoria",
+    "name": "rhubarb",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "365",
+    "life_cycle": "Perennial",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/fruits/rhubarb/victoria-rhubarb-seed-2577.html?cgid=rhubarb"
+}
+{
+    "variety": "Victoria",
+    "name": "rhubarb",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "365",
+    "life_cycle": "Perennial",
+    "price": "27.99",
+    "price_per_unit": "$27.99/3 Units",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/fruits/rhubarb/victoria-organic-rhubarb-crowns-68G.html?cgid=rhubarb"
+}
+{
+    "variety": "Strawberry Plant Collection",
+    "name": "strawberry",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "Fruits second year after planting",
+    "life_cycle": "Perennial",
+    "price": "36.00",
+    "price_per_unit": "$36.00/1 Unit",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/fruits/strawberry/strawberry-plant-collection-249.html?cgid=strawberry"
+}
+{
+    "variety": "Elan",
+    "name": "strawberry",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "100-120 to fruit",
+    "life_cycle": "Perennial",
+    "price": "5.40",
+    "price_per_unit": "$5.40/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/fruits/strawberry/elan-f1-strawberry-seed-3893.html?cgid=strawberry"
+}
+{
+    "variety": "Albion",
+    "name": "strawberry",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "Begins fruiting first year",
+    "life_cycle": "Perennial",
+    "price": "23.00",
+    "price_per_unit": "$23.00/25 Units",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/fruits/strawberry/albion-strawberry-plants-3289.html?cgid=strawberry"
+}
+{
+    "variety": "Alexandria",
+    "name": "strawberry",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "100-120 to fruit",
+    "life_cycle": "Perennial",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/fruits/strawberry/alexandria-strawberry-seed-697.html?cgid=strawberry"
+}
+{
+    "variety": "Seascape",
+    "name": "strawberry",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "Begins fruiting first year",
+    "life_cycle": "Perennial",
+    "price": "23.00",
+    "price_per_unit": "$23.00/25 Units",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/fruits/strawberry/seascape-strawberry-plants-246.html?cgid=strawberry"
+}
+{
+    "variety": "Jewel",
+    "name": "strawberry",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "Begins fruiting second year after planting",
+    "life_cycle": "Perennial",
+    "price": "23.00",
+    "price_per_unit": "$23.00/25 Units",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/fruits/strawberry/jewel-strawberry-plants-2407.html?cgid=strawberry"
+}
+{
+    "variety": "Sparkle",
+    "name": "strawberry",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "Begins fruiting second year after planting",
+    "life_cycle": "Perennial",
+    "price": "23.00",
+    "price_per_unit": "$23.00/25 Units",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/fruits/strawberry/sparkle-strawberry-plants-2500.html?cgid=strawberry"
+}
+{
+    "variety": "Tarpan",
+    "name": "strawberry",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "100-120 to fruit",
+    "life_cycle": "Perennial",
+    "price": "5.40",
+    "price_per_unit": "$5.40/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/fruits/strawberry/tarpan-f1-strawberry-seed-247.html?cgid=strawberry"
+}
+{
+    "variety": "Honeoye",
+    "name": "strawberry",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "Begins fruiting second year after planting",
+    "life_cycle": "Perennial",
+    "price": "23.00",
+    "price_per_unit": "$23.00/25 Units",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/fruits/strawberry/honeoye-strawberry-plants-2502.html?cgid=strawberry"
+}
+{
+    "variety": "Earliglow",
+    "name": "strawberry",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "Begins fruiting second year after planting",
+    "life_cycle": "Perennial",
+    "price": "23.00",
+    "price_per_unit": "$23.00/25 Units",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/fruits/strawberry/earliglow-strawberry-plants-2432.html?cgid=strawberry"
+}
+{
+    "variety": "Galletta",
+    "name": "strawberry",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "Begins fruiting second year after planting",
+    "life_cycle": "Perennial",
+    "price": "23.00",
+    "price_per_unit": "$23.00/25 Units",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/fruits/strawberry/galletta-strawberry-plants-3288.html?cgid=strawberry"
+}
+{
+    "variety": "Gasana",
+    "name": "strawberry",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "100-120 to fruit",
+    "life_cycle": "Perennial",
+    "price": "5.40",
+    "price_per_unit": "$5.40/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/fruits/strawberry/gasana-f1-strawberry-seed-3892.html?cgid=strawberry"
+}
+{
+    "variety": "Cabot",
+    "name": "strawberry",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "Begins fruiting second year after planting",
+    "life_cycle": "Perennial",
+    "price": "23.00",
+    "price_per_unit": "$23.00/25 Units",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/fruits/strawberry/cabot-strawberry-plants-2501.html?cgid=strawberry"
+}
+{
+    "variety": "AC Valley Sunset",
+    "name": "strawberry",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "Begins fruiting second year after planting",
+    "life_cycle": "Perennial",
+    "price": "23.00",
+    "price_per_unit": "$23.00/25 Units",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/fruits/strawberry/ac-valley-sunset-strawberry-plants-3284.html?cgid=strawberry"
+}
+{
+    "variety": "Elan",
+    "name": "strawberry",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "100-120 to fruit",
+    "life_cycle": "Perennial",
+    "price": "221.00",
+    "price_per_unit": "$221.00/1 Unit",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/fruits/strawberry/elan-organic-f1-strawberry-plugs-3969G.html?cgid=strawberry"
+}
+{
+    "variety": "Durban",
+    "name": "strawberry",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "100-120 to fruit",
+    "life_cycle": "Perennial",
+    "price": "221.00",
+    "price_per_unit": "$221.00/1 Unit",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/fruits/strawberry/durban-organic-f1-strawberry-plugs-3973G.html?cgid=strawberry"
+}
+{
+    "variety": "Mini Love",
+    "name": "watermelons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "70",
+    "life_cycle": "Annual",
+    "price": "8.10",
+    "price_per_unit": "$8.10/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/watermelons/mini-love-f1-watermelon-seed-3457.html?cgid=watermelons"
+}
+{
+    "variety": "Chubbiness",
+    "name": "watermelons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "82",
+    "life_cycle": "Annual",
+    "price": "8.25",
+    "price_per_unit": "$8.25/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/watermelons/chubbiness-f1-watermelon-seed-3563.html?cgid=watermelons"
+}
+{
+    "variety": "Sureness",
+    "name": "watermelons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "75",
+    "life_cycle": "Annual",
+    "price": "5.95",
+    "price_per_unit": "$5.95/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/watermelons/sureness-f1-melon-seed-3562.html?cgid=watermelons"
+}
+{
+    "variety": "Sugar Baby",
+    "name": "watermelons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "76",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/watermelons/sugar-baby-watermelon-seed-476.html?cgid=watermelons"
+}
+{
+    "variety": "Farmers Wonderful",
+    "name": "watermelons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "85",
+    "life_cycle": "Annual",
+    "price": "5.60",
+    "price_per_unit": "$5.60/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/watermelons/farmers-wonderful-f1-watermelon-seed-2307.html?cgid=watermelons"
+}
+{
+    "variety": "Crimson Sweet",
+    "name": "watermelons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "85",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/watermelons/crimson-sweet-watermelon-seed-2133.html?cgid=watermelons"
+}
+{
+    "variety": "New Orchid",
+    "name": "watermelons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "80",
+    "life_cycle": "Annual",
+    "price": "5.60",
+    "price_per_unit": "$5.60/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/watermelons/new-orchid-f1-watermelon-seed-479.html?cgid=watermelons"
+}
+{
+    "variety": "Dark Belle",
+    "name": "watermelons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "75",
+    "life_cycle": "Annual",
+    "price": "6.25",
+    "price_per_unit": "$6.25/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/watermelons/dark-belle-f1-watermelon-seed-3766.html?cgid=watermelons"
+}
+{
+    "variety": "Orange Crisp",
+    "name": "watermelons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "87",
+    "life_cycle": "Annual",
+    "price": "9.35",
+    "price_per_unit": "$9.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/watermelons/orange-crisp-f1-watermelon-seed-3841.html?cgid=watermelons"
+}
+{
+    "variety": "Starlight",
+    "name": "watermelons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "75",
+    "life_cycle": "Annual",
+    "price": "6.35",
+    "price_per_unit": "$6.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/watermelons/starlight-f1-watermelon-seed-2493.html?cgid=watermelons"
+}
+{
+    "variety": "Gentility",
+    "name": "watermelons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "80",
+    "life_cycle": "Annual",
+    "price": "8.25",
+    "price_per_unit": "$8.25/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/watermelons/gentility-f1-watermelon-seed-3248.html?cgid=watermelons"
+}
+{
+    "variety": "Sorbet Swirl",
+    "name": "watermelons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "77",
+    "life_cycle": "Annual",
+    "price": "5.60",
+    "price_per_unit": "$5.60/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/watermelons/sorbet-swirl-f1-watermelon-seed-2871.html?cgid=watermelons"
+}
+{
+    "variety": "Sunshine",
+    "name": "watermelons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "75",
+    "life_cycle": "Annual",
+    "price": "6.35",
+    "price_per_unit": "$6.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/watermelons/sunshine-f1-watermelon-seed-474.html?cgid=watermelons"
+}
+{
+    "variety": "Amarillo",
+    "name": "watermelons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "82",
+    "life_cycle": "Annual",
+    "price": "9.95",
+    "price_per_unit": "$9.95/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/watermelons/amarillo-f1-watermelon-seed-55.html?cgid=watermelons"
+}
+{
+    "variety": "Gentility",
+    "name": "watermelons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "80",
+    "life_cycle": "Annual",
+    "price": "8.25",
+    "price_per_unit": "$8.25/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/watermelons/gentility-f1-treated-watermelon-seed-3248T.html?cgid=watermelons"
+}
+{
+    "variety": "Sorbet",
+    "name": "watermelons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "80",
+    "life_cycle": "Annual",
+    "price": "8.25",
+    "price_per_unit": "$8.25/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/watermelons/sorbet-f1-watermelon-seed-3514.html?cgid=watermelons"
+}
+{
+    "variety": "Little Baby Flower",
+    "name": "watermelons",
+    "category": "fruits",
+    "manufacturer": "Johny's",
+    "maturity": "70",
+    "life_cycle": "Annual",
+    "price": "",
+    "price_per_unit": "",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/vegetables/watermelons/little-baby-flower-f1-watermelon-seed-2495.html?cgid=watermelons"
+}

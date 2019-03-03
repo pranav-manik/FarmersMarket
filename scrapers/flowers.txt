@@ -1,0 +1,888 @@
+{
+    "variety": "Timeless Mix",
+    "name": "ageratum",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "80-100",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/ageratum/timeless-mix-ageratum-seed-3432.html?cgid=ageratum"
+}
+{
+    "variety": "Blue Horizon",
+    "name": "ageratum",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "80-100",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/ageratum/blue-horizon-pelleted-f1-ageratum-seed-1010P.html?cgid=ageratum"
+}
+{
+    "variety": "Tall Blue Planet",
+    "name": "ageratum",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "80-100",
+    "life_cycle": "Annual",
+    "price": "",
+    "price_per_unit": "",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/ageratum/tall-blue-planet-f1-ageratum-seed-1835.html?cgid=ageratum"
+}
+{
+    "variety": "Ocean Pearls",
+    "name": "agrostemma corn cockle",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "70-85",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/agrostemma-corn-cockle/ocean-pearls-agrostemma-seed-1105.html?cgid=agrostemma"
+}
+{
+    "variety": "Purple Queen",
+    "name": "agrostemma corn cockle",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "70-85",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/agrostemma-corn-cockle/purple-queen-agrostemma-seed-1106.html?cgid=agrostemma"
+}
+{
+    "variety": "Sweet Alyssum",
+    "name": "alyssum",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "50-60",
+    "life_cycle": "Tender Perennial",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/alyssum/sweet-alyssum-seed-1932.html?cgid=alyssum"
+}
+{
+    "variety": "Red Spike",
+    "name": "amaranthus",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "65-75",
+    "life_cycle": "Annual",
+    "price": "4.10",
+    "price_per_unit": "$4.10/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/amaranthus/red-spike-amaranthus-seed-3786.html?cgid=amaranthus"
+}
+{
+    "variety": "Coral Fountain",
+    "name": "amaranthus",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "65-75",
+    "life_cycle": "Annual",
+    "price": "4.10",
+    "price_per_unit": "$4.10/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/amaranthus/coral-fountain-amaranthus-seed-1701.html?cgid=amaranthus"
+}
+{
+    "variety": "Emerald Tassels",
+    "name": "amaranthus",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "65-75",
+    "life_cycle": "Annual",
+    "price": "4.10",
+    "price_per_unit": "$4.10/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/amaranthus/emerald-tassels-amaranthus-seed-1786.html?cgid=amaranthus"
+}
+{
+    "variety": "Hot Biscuits",
+    "name": "amaranthus",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "65-75",
+    "life_cycle": "Annual",
+    "price": "4.10",
+    "price_per_unit": "$4.10/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/amaranthus/hot-biscuits-amaranthus-seed-1676.html?cgid=amaranthus"
+}
+{
+    "variety": "Hopi Red Dye",
+    "name": "amaranthus",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "65-75",
+    "life_cycle": "Annual",
+    "price": "4.10",
+    "price_per_unit": "$4.10/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/amaranthus/hopi-red-dye-organic-amaranthus-seed-3393G.html?cgid=amaranthus"
+}
+{
+    "variety": "Love-Lies-Bleeding",
+    "name": "amaranthus",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "65-75",
+    "life_cycle": "Annual",
+    "price": "4.10",
+    "price_per_unit": "$4.10/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/amaranthus/love-lies-bleeding-amaranthus-seed-1139.html?cgid=amaranthus"
+}
+{
+    "variety": "Dara",
+    "name": "ammi false queen annes lace",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "65-75",
+    "life_cycle": "Annual",
+    "price": "4.10",
+    "price_per_unit": "$4.10/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/ammi-false-queen-annes-lace/dara-ammi-seed-1968.html?cgid=ammi"
+}
+{
+    "variety": "Green Mist",
+    "name": "ammi false queen annes lace",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "85-95",
+    "life_cycle": "Annual",
+    "price": "4.30",
+    "price_per_unit": "$4.30/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/ammi-false-queen-annes-lace/green-mist-organic-ammi-seed-1758G.html?cgid=ammi"
+}
+{
+    "variety": "White Dill",
+    "name": "ammi false queen annes lace",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "65-75",
+    "life_cycle": "Annual",
+    "price": "4.10",
+    "price_per_unit": "$4.10/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/ammi-false-queen-annes-lace/white-dill-ammi-seed-1034.html?cgid=ammi"
+}
+{
+    "variety": "Green Mist",
+    "name": "ammi false queen annes lace",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "85-95",
+    "life_cycle": "Annual",
+    "price": "4.10",
+    "price_per_unit": "$4.10/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/ammi-false-queen-annes-lace/green-mist-ammi-seed-1758.html?cgid=ammi"
+}
+{
+    "variety": "Winged Everlasting",
+    "name": "ammobium",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "70-80",
+    "life_cycle": "Tender Perennial",
+    "price": "",
+    "price_per_unit": "",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/ammobium/winged-everlasting-ammobium-seed-3800.html?cgid=ammobium"
+}
+{
+    "variety": "Sweet Annie",
+    "name": "artemisia sweet annie",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "120",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/artemisia-sweet-annie/sweet-annie-organic-artemisia-seed-1700.html?cgid=artemisia"
+}
+{
+    "variety": "Silky Formula Mix",
+    "name": "asclepias butterfly weed",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "90",
+    "life_cycle": "Tender Perennial",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/asclepias-butterfly-weed/silky-formula-mix-asclepias-seed-1641.html?cgid=asclepias"
+}
+{
+    "variety": "Pleurisy Root",
+    "name": "asclepias butterfly weed",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "365",
+    "life_cycle": "Perennial",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/asclepias-butterfly-weed/pleurisy-root-organic-asclepias-seed-2347G.html?cgid=asclepias"
+}
+{
+    "variety": "Pleurisy Root",
+    "name": "asclepias butterfly weed",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "365",
+    "life_cycle": "Perennial",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/asclepias-butterfly-weed/pleurisy-root-asclepias-seed-2347.html?cgid=asclepias"
+}
+{
+    "variety": "Oscar",
+    "name": "asclepias butterfly weed",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "120-130",
+    "life_cycle": "Tender Perennial",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/asclepias-butterfly-weed/oscar-asclepias-seed-1794.html?cgid=asclepias"
+}
+{
+    "variety": "King Size Apricot",
+    "name": "aster",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "110-120",
+    "life_cycle": "Annual",
+    "price": "4.10",
+    "price_per_unit": "$4.10/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/aster/king-size-apricot-china-aster-seed-3465.html?cgid=aster"
+}
+{
+    "variety": "Lady Coral Lavender",
+    "name": "aster",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "115-125",
+    "life_cycle": "Annual",
+    "price": "4.10",
+    "price_per_unit": "$4.10/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/aster/lady-coral-lavender-china-aster-seed-3499.html?cgid=aster"
+}
+{
+    "variety": "Valkyrie Brunhilde Chamois",
+    "name": "aster",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "110-120",
+    "life_cycle": "Annual",
+    "price": "4.10",
+    "price_per_unit": "$4.10/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/aster/valkyrie-brunhilde-chamois-china-aster-seed-3500.html?cgid=aster"
+}
+{
+    "variety": "Valkyrie Mix",
+    "name": "aster",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "110-120",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/aster/valkyrie-mix-china-aster-seed-1916.html?cgid=aster"
+}
+{
+    "variety": "Tower Custom Mix",
+    "name": "aster",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "110-120",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/aster/tower-custom-mix-china-aster-seed-1833.html?cgid=aster"
+}
+{
+    "variety": "Serenade Mix",
+    "name": "aster",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "95-105",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/aster/serenade-mix-china-aster-seed-1422.html?cgid=aster"
+}
+{
+    "variety": "Tower Violet",
+    "name": "aster",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "110-120",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/aster/tower-violet-china-aster-seed-3322.html?cgid=aster"
+}
+{
+    "variety": "Tower Yellow",
+    "name": "aster",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "110-120",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/aster/tower-yellow-china-aster-seed-3324.html?cgid=aster"
+}
+{
+    "variety": "Tower Blue",
+    "name": "aster",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "110-120",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/aster/tower-blue-china-aster-seed-3321.html?cgid=aster"
+}
+{
+    "variety": "Tower Salmon",
+    "name": "aster",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "110-120",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/aster/tower-salmon-china-aster-seed-3325.html?cgid=aster"
+}
+{
+    "variety": "Tower Chamois",
+    "name": "aster",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "110-120",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/aster/tower-chamois-china-aster-seed-3758.html?cgid=aster"
+}
+{
+    "variety": "Tower Silver",
+    "name": "aster",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "110-120",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/aster/tower-silver-china-aster-seed-3323.html?cgid=aster"
+}
+{
+    "variety": "Copper Plume",
+    "name": "atriplex",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "75-110",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/atriplex/copper-plume-organic-atriplex-seed-3739G.html?cgid=atriplex"
+}
+{
+    "variety": "Red Plume",
+    "name": "atriplex",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "75-110",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/atriplex/red-plume-atriplex-seed-3702.html?cgid=atriplex"
+}
+{
+    "variety": "Green Plume",
+    "name": "atriplex",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "75-110",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/atriplex/green-plume-atriplex-seed-3701.html?cgid=atriplex"
+}
+{
+    "variety": "Mrs. Burns' Lemon",
+    "name": "basil ornamental",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "60",
+    "life_cycle": "Annual",
+    "price": "3.50",
+    "price_per_unit": "$3.50/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/basil-ornamental/mrs.-burns-lemon-basil-seed-774.html?cgid=basil-1"
+}
+{
+    "variety": "Sweet Thai",
+    "name": "basil ornamental",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "64",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/basil-ornamental/sweet-thai-organic-basil-seed-945G.html?cgid=basil-1"
+}
+{
+    "variety": "Amethyst Improved",
+    "name": "basil ornamental",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "74",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/basil-ornamental/amethyst-improved-basil-seed-228.html?cgid=basil-1"
+}
+{
+    "variety": "Sweet Thai",
+    "name": "basil ornamental",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "64",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/basil-ornamental/sweet-thai-basil-seed-945.html?cgid=basil-1"
+}
+{
+    "variety": "Aromatto",
+    "name": "basil ornamental",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "75-80",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/basil-ornamental/aromatto-organic-basil-seed-1772G.html?cgid=basil-1"
+}
+{
+    "variety": "Cinnamon",
+    "name": "basil ornamental",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "65",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/basil-ornamental/cinnamon-basil-seed-906.html?cgid=basil-1"
+}
+{
+    "variety": "Red Rubin",
+    "name": "basil ornamental",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "72",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/basil-ornamental/red-rubin-organic-basil-seed-924G.html?cgid=basil-1"
+}
+{
+    "variety": "Dark Opal",
+    "name": "basil ornamental",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "70",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/basil-ornamental/dark-opal-basil-seed-902.html?cgid=basil-1"
+}
+{
+    "variety": "Red Rubin",
+    "name": "basil ornamental",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "72",
+    "life_cycle": "Annual",
+    "price": "",
+    "price_per_unit": "",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/basil-ornamental/red-rubin-basil-seed-924.html?cgid=basil-1"
+}
+{
+    "variety": "Bells of Ireland",
+    "name": "bells of ireland",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "90-110",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/bells-of-ireland/bells-of-ireland-seed-1028.html?cgid=bells-of-ireland"
+}
+{
+    "variety": "Borage",
+    "name": "borage",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "50-60",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/herbs/borage/borage-organic-seed-912G.html?cgid=borage"
+}
+{
+    "variety": "Borage",
+    "name": "borage",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "50-60",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/herbs/borage/borage-seed-912.html?cgid=borage"
+}
+{
+    "variety": "Green Gold",
+    "name": "bupleurum",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "80-90",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/bupleurum/green-gold-bupleurum-seed-1045.html?cgid=bupleurum"
+}
+{
+    "variety": "Orange Button",
+    "name": "calendula",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "50-55",
+    "life_cycle": "Annual",
+    "price": "4.10",
+    "price_per_unit": "$4.10/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/calendula/orange-button-calendula-seed-3547.html?cgid=calendula"
+}
+{
+    "variety": "Alpha",
+    "name": "calendula",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "50-55",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/calendula/alpha-organic-calendula-seed-2935.html?cgid=calendula"
+}
+{
+    "variety": "Flashback Mix",
+    "name": "calendula",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "55",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/calendula/flashback-mix-organic-calendula-seed-1496.html?cgid=calendula"
+}
+{
+    "variety": "Princess Mix",
+    "name": "calendula",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "50-55",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/calendula/princess-mix-calendula-seed-1904.html?cgid=calendula"
+}
+{
+    "variety": "Pampas Plume",
+    "name": "celosia",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "90-95",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/celosia/pampas-plume-celosia-seed-1203.html?cgid=celosia"
+}
+{
+    "variety": "Chief Mix",
+    "name": "celosia",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "90-120",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/celosia/chief-mix-celosia-seed-1065.html?cgid=celosia"
+}
+{
+    "variety": "Eternity Improved",
+    "name": "celosia",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "85-90",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/celosia/eternity-improved-celosia-seed-1803.html?cgid=celosia"
+}
+{
+    "variety": "Ruby Parfait",
+    "name": "celosia",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "90-95",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/celosia/ruby-parfait-celosia-seed-1901.html?cgid=celosia"
+}
+{
+    "variety": "Sylphid",
+    "name": "celosia",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "95-100",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/celosia/sylphid-celosia-seed-1834.html?cgid=celosia"
+}
+{
+    "variety": "Sunday Gold",
+    "name": "celosia",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "85-90",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/celosia/sunday-gold-celosia-seed-3349.html?cgid=celosia"
+}
+{
+    "variety": "Cramer's Rose",
+    "name": "celosia",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "90-120",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/celosia/cramers-rose-celosia-seed-1707.html?cgid=celosia"
+}
+{
+    "variety": "Cramer's Lemon Lime",
+    "name": "celosia",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "90-120",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/celosia/cramers-lemon-lime-celosia-seed-1706.html?cgid=celosia"
+}
+{
+    "variety": "Red Flame",
+    "name": "celosia",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "95-100",
+    "life_cycle": "Annual",
+    "price": "4.55",
+    "price_per_unit": "$4.55/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/celosia/red-flame-organic-celosia-seed-1770G.html?cgid=celosia"
+}
+{
+    "variety": "Chief Rose",
+    "name": "celosia",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "90-120",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/celosia/chief-rose-celosia-seed-1993.html?cgid=celosia"
+}
+{
+    "variety": "Chief Persimmon",
+    "name": "celosia",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "90-120",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/celosia/chief-persimmon-celosia-seed-1990.html?cgid=celosia"
+}
+{
+    "variety": "Chief Gold",
+    "name": "celosia",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "90-120",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/celosia/chief-gold-celosia-seed-1994.html?cgid=celosia"
+}
+{
+    "variety": "Chief Carmine",
+    "name": "celosia",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "90-120",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/celosia/chief-carmine-celosia-seed-1992.html?cgid=celosia"
+}
+{
+    "variety": "Chief Fire",
+    "name": "celosia",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "90-120",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/celosia/chief-fire-celosia-seed-1991.html?cgid=celosia"
+}
+{
+    "variety": "Cramer's Burgundy",
+    "name": "celosia",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "90-120",
+    "life_cycle": "Annual",
+    "price": "",
+    "price_per_unit": "",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/celosia/cramers-burgundy-celosia-seed-1705.html?cgid=celosia"
+}
+{
+    "variety": "Black Button",
+    "name": "centaurea bachelors button",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "65-75",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/centaurea-bachelors-button/black-button-centaurea-seed-3435.html?cgid=centaurea"
+}
+{
+    "variety": "Choice Mix",
+    "name": "centaurea bachelors button",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "65-75",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/centaurea-bachelors-button/choice-mix-centaurea-seed-1016.html?cgid=centaurea"
+}
+{
+    "variety": "Classic Magic",
+    "name": "centaurea bachelors button",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "65-75",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/centaurea-bachelors-button/classic-magic-centaurea-seed-3306.html?cgid=centaurea"
+}
+{
+    "variety": "Florist Blue Boy",
+    "name": "centaurea bachelors button",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "65-75",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/centaurea-bachelors-button/florist-blue-boy-centaurea-seed-1017.html?cgid=centaurea"
+}
+{
+    "variety": "Kiwi Blue",
+    "name": "cerinthe",
+    "category": "flowers",
+    "manufacturer": "Johny's",
+    "maturity": "65-70",
+    "life_cycle": "Annual",
+    "price": "4.35",
+    "price_per_unit": "$4.35/Packet",
+    "organic": false,
+    "url": "https://www.johnnyseeds.com/flowers/cerinthe/kiwi-blue-cerinthe-seed-1933.html?cgid=cerinthe"
+}
