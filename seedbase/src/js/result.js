@@ -2,7 +2,8 @@ import React from 'react';
 import '@fortawesome/fontawesome-free/css/all.css'; // or single skin css
 import { Dropdown, DropdownToggle, DropdownMenu, DropdownItem } from 'reactstrap';
 import { InstantSearch } from 'react-instantsearch-dom';
-import firebase from 'firebase'
+import SearchBar from './searchBar.js';
+import firebase from 'firebase';
 var config = {
     apiKey: "AIzaSyBk2mYeH-3ETNzwk2vXbgP8coLuQD6CW74",
     authDomain: "seedbase-e7ee6.firebaseapp.com",
@@ -21,18 +22,6 @@ var database = firebase.database();
 //   data = snapshot.val();
 //   // console.log(data);
 // });
-
-
-//Credentials for Algolia
-const App = () => (
-  <InstantSearch
-    appId="latency"
-    apiKey="3d9875e51fbd20c7754e65422f7ce5e1"
-    indexName="bestbuy"
-  >
-    {/* Search widgets will go there */}
-  </InstantSearch>
-);
 
 function MakeSeed(props) {
 	return (
@@ -100,20 +89,38 @@ class Rows extends React.Component{
         
       ]
     }
-    this.retrieveData();
+    this.retrieveData(this.props.query);
   }
 
-  retrieveData = () => {
-    var parent = this;
+  UNSAFE_componentWillReceiveProps(nextProps) {
+    console.log('new props');
+    this.retrieveData(nextProps.query);
+  }
 
+  retrieveData = (query) => {
+    var parent = this;
+    let d = [];
+    query = query.toLowerCase();
     database.ref().once("value")
     .then(function(snapshot) {
       console.log(snapshot.val());
-      parent.setState({data:snapshot.val()});
+      return snapshot.val();
+    })
+    .then(function(data) {
+      d = data;
+      if (query != "") {
+        d = d.filter(datum => {
+          var curVariety = datum.variety.toLowerCase();
+          var curName = datum.name.toLowerCase();
+          var curCategory = datum.variety.toLowerCase();
+          return curVariety.includes(query) || datum.name.includes(query) || curCategory.includes(query)
+        });
+      }
+      parent.setState({data: d});
     });
   }
 
-  renderSeed(img='/img/logo.png', variety='n/a', name='n/a', manufacturer='n/a', mature='n/a', life_cycle='n/a', organic=false, price=0, url='n/a'){
+  renderSeed(img='/img/logo.png', variety='n/a', name='n/a', manufacturer='n/a', mature='n/a', life_cycle='n/a', organic=false, price=0, price_per_unit, url='n/a'){
 
     return(
         <MakeSeed
@@ -121,24 +128,50 @@ class Rows extends React.Component{
           seedVariety = {variety}
           seedName = {name}
           seedManufacturer = {manufacturer}
-          seedMaturity = {mature + " days"|| 'n/a'}
+          seedMaturity = {mature || 'n/a'}
           seedLifeCycle = {life_cycle || 'n/a'}
-          seedOrganic = {organic ? 'Yes': 'No'}
+          seedOrganic = {organic}
           seedPrice = {price}
           seedURL = {url}
         />
     )
   }
 
+  titleCase(str) {
+     var splitStr = str.toLowerCase().split(' ');
+     for (var i = 0; i < splitStr.length; i++) {
+         // You do not need to check if i is larger than splitStr length, as your for does that for you
+         // Assign it back to the array
+         splitStr[i] = splitStr[i].charAt(0).toUpperCase() + splitStr[i].substring(1);     
+     }
+     // Directly return the joined string
+     return splitStr.join(' '); 
+  }
+  getMaturity(n) {
+    var lastChar = n.slice(-1);
+    if (lastChar >= '0' && lastChar <= '9') {
+      return (n + " days");
+    } else {
+      return n;
+    }
+  }
+
   render(){
     let { data } = this.state;
     if (data.length > 0) {
       var rows = [];
-      for (var i=0; i < 30; i++) {
-        
-        rows.push(this.renderSeed("/img/logo.png", data[i].variety, data[i].name, data[i].manufacturer, data[i].maturity, data[i].life_cycle, data[i].organic, data[i].price, data[i].url));
+      for (var i=0; i < data.length; i++) {
+
+        let myVariety = data[i].variety;
+        let myName = data[i].name;
+        myName = this.titleCase(myName);
+        let myMaturity = this.getMaturity(data[i].maturity);
+        let isOrganic = data[i].organic ? 'Yes': 'No';
+        let displayPrice = '$' + data[i].price;
+        let myLifeCycle = data[i].life_cycle;
+
+        rows.push(this.renderSeed("/img/logo.png", myVariety, myName, data[i].manufacturer, myMaturity, myLifeCycle, isOrganic, displayPrice, data[i].price_per_unit, data[i].url));
       }
-      console.log("rows " + rows);
     }
     return(
       <div>
@@ -150,11 +183,15 @@ class Rows extends React.Component{
 }
 
 export default class Result extends React.Component{
-  render (){
+  constructor(props) {
+    super(props);
+  }
+
+  render() {
     return(
       <div>
         <Sort />
-        <Rows />
+        <Rows query={this.props.query}/>
       </div>
     );
   }
