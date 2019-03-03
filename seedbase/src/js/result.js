@@ -53,6 +53,12 @@ class Sort extends React.Component{
     };
   }
 
+  sortData = (x = 0) => {
+    if (x==0){
+      return 1;
+    }
+  }
+
   toggle() {
     this.setState(prevState => ({
       dropdownOpen: !prevState.dropdownOpen
@@ -67,8 +73,8 @@ class Sort extends React.Component{
           </DropdownToggle>
           <DropdownMenu>
             <DropdownItem header>Price</DropdownItem>
-            <DropdownItem>Low to High</DropdownItem>
-            <DropdownItem>High to Low</DropdownItem>
+            <DropdownItem >Low to High</DropdownItem>
+            <DropdownItem >High to Low</DropdownItem>
             <DropdownItem divider />
             <DropdownItem header>Name</DropdownItem>
             <DropdownItem>Ascending</DropdownItem>
@@ -115,6 +121,15 @@ class Rows extends React.Component{
           return curVariety.includes(query) || datum.name.includes(query) || curCategory.includes(query)
         });
       }
+      d = d.sort((a, b) => {
+        if (a.variety.toLowerCase() < b.variety.toLowerCase()) {
+          return -1;
+        }
+        else if (a.variety.toLowerCase() > b.variety.toLowerCase()) {
+          return 1;
+        }
+        else return 0;
+      });
       parent.setState({data: d});
     });
   }
