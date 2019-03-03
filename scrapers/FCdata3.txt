@@ -1,0 +1,1908 @@
+{
+    "variety": "Alderman",
+    "name": "Peas",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "75",
+    "life_cycle": "",
+    "price": "1.80",
+    "price_per_unit": "$1.80 per 2oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=792"
+}
+{
+    "variety": "Champion of England",
+    "name": "Peas",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "70",
+    "life_cycle": "",
+    "price": "4.00",
+    "price_per_unit": "$4.00 per 2oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=780"
+}
+{
+    "variety": "Emerald Archer",
+    "name": "Peas",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "65",
+    "life_cycle": "",
+    "price": "1.90",
+    "price_per_unit": "$1.90 per 2oz",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=758"
+}
+{
+    "variety": "Green Arrow",
+    "name": "Peas",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "65",
+    "life_cycle": "",
+    "price": "2.80",
+    "price_per_unit": "$2.80 per 2oz",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=761"
+}
+{
+    "variety": "Iona Petit Pois",
+    "name": "Peas",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "68",
+    "life_cycle": "",
+    "price": "2.00",
+    "price_per_unit": "$2.00 per 2oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=779"
+}
+{
+    "variety": "Lincoln",
+    "name": "Peas",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "70",
+    "life_cycle": "",
+    "price": "1.90",
+    "price_per_unit": "$1.90 per 2oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=781"
+}
+{
+    "variety": "Perfection 326",
+    "name": "Peas",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "66",
+    "life_cycle": "",
+    "price": "1.80",
+    "price_per_unit": "$1.80 per 2oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=762"
+}
+{
+    "variety": "Strike Pea",
+    "name": "Peas",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "52",
+    "life_cycle": "",
+    "price": "1.80",
+    "price_per_unit": "$1.80 per 2oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=720"
+}
+{
+    "variety": "Topps",
+    "name": "Peas",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "56",
+    "life_cycle": "",
+    "price": "1.90",
+    "price_per_unit": "$1.90 per 2oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=727"
+}
+{
+    "variety": "Amish Snap",
+    "name": "Peas",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "62",
+    "life_cycle": "",
+    "price": "3.60",
+    "price_per_unit": "$3.60 per 2oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=885"
+}
+{
+    "variety": "Cascadia",
+    "name": "Peas",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "65",
+    "life_cycle": "",
+    "price": "1.90",
+    "price_per_unit": "$1.90 per 2oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=888"
+}
+{
+    "variety": "Cascadia",
+    "name": "Peas",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "65",
+    "life_cycle": "",
+    "price": "2.70",
+    "price_per_unit": "$2.70 per 2oz",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=889"
+}
+{
+    "variety": "Mega",
+    "name": "Peas",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "64",
+    "life_cycle": "",
+    "price": "2.80",
+    "price_per_unit": "$2.80 per 2oz",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=884"
+}
+{
+    "variety": "Sugar Ann",
+    "name": "Peas",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "58",
+    "life_cycle": "",
+    "price": "2.80",
+    "price_per_unit": "$2.80 per 2oz",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=883"
+}
+{
+    "variety": "Sugarsnap",
+    "name": "Peas",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "68",
+    "life_cycle": "",
+    "price": "2.90",
+    "price_per_unit": "$2.90 per 2oz",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=893"
+}
+{
+    "variety": "Super Sugarsnap",
+    "name": "Peas",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "66",
+    "life_cycle": "",
+    "price": "2.60",
+    "price_per_unit": "$2.60 per 2oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=894"
+}
+{
+    "variety": "Tendersweet",
+    "name": "Peas",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "65",
+    "life_cycle": "",
+    "price": "1.90",
+    "price_per_unit": "$1.90 per 2oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=891"
+}
+{
+    "variety": "Blizzard",
+    "name": "Peas",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "61",
+    "life_cycle": "",
+    "price": "2.60",
+    "price_per_unit": "$2.60 per 2oz",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=822"
+}
+{
+    "variety": "Green Beauty",
+    "name": "Peas",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "60",
+    "life_cycle": "",
+    "price": "3.80",
+    "price_per_unit": "$3.80 per 2oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=820"
+}
+{
+    "variety": "Oregon Giant",
+    "name": "Peas",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "60",
+    "life_cycle": "",
+    "price": "2.00",
+    "price_per_unit": "$2.00 per 2oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=818"
+}
+{
+    "variety": "Klari Baby Cheese",
+    "name": "Peppers",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "65",
+    "life_cycle": "",
+    "price": "2.30",
+    "price_per_unit": "$2.30 per 0.5g",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=3738"
+}
+{
+    "variety": "Aconcagua",
+    "name": "Peppers",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "85",
+    "life_cycle": "",
+    "price": "1.70",
+    "price_per_unit": "$1.70 per 0.2g",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=3769"
+}
+{
+    "variety": "Apple",
+    "name": "Peppers",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "80",
+    "life_cycle": "",
+    "price": "2.30",
+    "price_per_unit": "$2.30 per 0.2g",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=3764"
+}
+{
+    "variety": "Carmen",
+    "name": "Peppers",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "70",
+    "life_cycle": "",
+    "price": "3.40",
+    "price_per_unit": "$3.40 per 20 seeds",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=3757"
+}
+{
+    "variety": "Cubanelle",
+    "name": "Peppers",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "80",
+    "life_cycle": "",
+    "price": "1.50",
+    "price_per_unit": "$1.50 per 0.5g",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=3766"
+}
+{
+    "variety": "Jimmy Nardello\u2019s",
+    "name": "Peppers",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "76",
+    "life_cycle": "",
+    "price": "2.40",
+    "price_per_unit": "$2.40 per 0.2g",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=3762"
+}
+{
+    "variety": "Mega Marconi ",
+    "name": "Peppers",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "90",
+    "life_cycle": "",
+    "price": "2.70",
+    "price_per_unit": "$2.70 per 0.2g",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=3736"
+}
+{
+    "variety": "Odessa Market",
+    "name": "Peppers",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "87",
+    "life_cycle": "",
+    "price": "2.00",
+    "price_per_unit": "$2.00 per 0.2g",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=3773"
+}
+{
+    "variety": "Takara Shishito",
+    "name": "Peppers",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "60",
+    "life_cycle": "",
+    "price": "3.40",
+    "price_per_unit": "$3.40 per 20 seeds",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=3750"
+}
+{
+    "variety": "Anaheim",
+    "name": "Peppers",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "78",
+    "life_cycle": "",
+    "price": "1.50",
+    "price_per_unit": "$1.50 per 0.5g",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=3807"
+}
+{
+    "variety": "Beaver Dam",
+    "name": "Peppers",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "80",
+    "life_cycle": "",
+    "price": "2.10",
+    "price_per_unit": "$2.10 per 0.2g",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=3805"
+}
+{
+    "variety": "Bulgarian Carrot Chile",
+    "name": "Peppers",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "68",
+    "life_cycle": "",
+    "price": "2.00",
+    "price_per_unit": "$2.00 per 0.5g",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=3853"
+}
+{
+    "variety": "Caballero Ancho",
+    "name": "Peppers",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "65",
+    "life_cycle": "",
+    "price": "2.80",
+    "price_per_unit": "$2.80 per 20 seeds",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=3811"
+}
+{
+    "variety": "Carrot Bomb",
+    "name": "Peppers",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "74",
+    "life_cycle": "",
+    "price": "2.20",
+    "price_per_unit": "$2.20 per 0.2g",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=3825"
+}
+{
+    "variety": "Czech Black",
+    "name": "Peppers",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "65",
+    "life_cycle": "",
+    "price": "2.40",
+    "price_per_unit": "$2.40 per 0.2g",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=3816"
+}
+{
+    "variety": "Early Jalape\u00f1o",
+    "name": "Peppers",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "75",
+    "life_cycle": "",
+    "price": "1.50",
+    "price_per_unit": "$1.50 per 0.5g",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=3834"
+}
+{
+    "variety": "Fireball",
+    "name": "Peppers",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "75",
+    "life_cycle": "",
+    "price": "3.10",
+    "price_per_unit": "$3.10 per 20 seeds",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=3819"
+}
+{
+    "variety": "Fish",
+    "name": "Peppers",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "80",
+    "life_cycle": "",
+    "price": "2.40",
+    "price_per_unit": "$2.40 per 0.2g",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=3849"
+}
+{
+    "variety": "Hidalgo Serrano",
+    "name": "Peppers",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "75",
+    "life_cycle": "",
+    "price": "2.40",
+    "price_per_unit": "$2.40 per 0.2g",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=3841"
+}
+{
+    "variety": "Hinkelhatz",
+    "name": "Peppers",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "88",
+    "life_cycle": "",
+    "price": "2.30",
+    "price_per_unit": "$2.30 per 0.2g",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=3870"
+}
+{
+    "variety": "Baby Pam",
+    "name": "Pumpkins",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "99",
+    "life_cycle": "",
+    "price": "1.90",
+    "price_per_unit": "$1.90 per 1/4oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1711"
+}
+{
+    "variety": "Cheese",
+    "name": "Pumpkins",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "110",
+    "life_cycle": "",
+    "price": "2.00",
+    "price_per_unit": "$2.00 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1740"
+}
+{
+    "variety": "Godiva",
+    "name": "Pumpkins",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "110",
+    "life_cycle": "",
+    "price": "2.50",
+    "price_per_unit": "$2.50 per 1/8oz",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=1743"
+}
+{
+    "variety": "Jarrahdale",
+    "name": "Pumpkins",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "100",
+    "life_cycle": "",
+    "price": "1.90",
+    "price_per_unit": "$1.90 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1716"
+}
+{
+    "variety": "Long Pie",
+    "name": "Pumpkins",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "102",
+    "life_cycle": "",
+    "price": "2.20",
+    "price_per_unit": "$2.20 per 1/8oz",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=1723"
+}
+{
+    "variety": "Naked Bear",
+    "name": "Pumpkins",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "105",
+    "life_cycle": "",
+    "price": "4.00",
+    "price_per_unit": "$4.00 per 25 seeds",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1725"
+}
+{
+    "variety": "New England Pie",
+    "name": "Pumpkins",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "102",
+    "life_cycle": "",
+    "price": "1.40",
+    "price_per_unit": "$1.40 per 1/4oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1719"
+}
+{
+    "variety": "New England Pie",
+    "name": "Pumpkins",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "102",
+    "life_cycle": "",
+    "price": "2.00",
+    "price_per_unit": "$2.00 per 1/4oz",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=1720"
+}
+{
+    "variety": "Winter Luxury",
+    "name": "Pumpkins",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "100",
+    "life_cycle": "",
+    "price": "2.40",
+    "price_per_unit": "$2.40 per 1/8oz",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=1718"
+}
+{
+    "variety": "Bellatrix",
+    "name": "Pumpkins",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "100",
+    "life_cycle": "",
+    "price": "6.00",
+    "price_per_unit": "$6.00 per 25 seeds",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=1745"
+}
+{
+    "variety": "Big Max",
+    "name": "Pumpkins",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "120",
+    "life_cycle": "",
+    "price": "1.70",
+    "price_per_unit": "$1.70 per 1/4oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1757"
+}
+{
+    "variety": "Connecticut Field",
+    "name": "Pumpkins",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "115",
+    "life_cycle": "",
+    "price": "1.40",
+    "price_per_unit": "$1.40 per 1/4oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1748"
+}
+{
+    "variety": "Howden",
+    "name": "Pumpkins",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "115",
+    "life_cycle": "",
+    "price": "1.70",
+    "price_per_unit": "$1.70 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1751"
+}
+{
+    "variety": "Howden",
+    "name": "Pumpkins",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "115",
+    "life_cycle": "",
+    "price": "2.00",
+    "price_per_unit": "$2.00 per 1/8oz",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=1752"
+}
+{
+    "variety": "Diablo",
+    "name": "Pumpkins",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "98",
+    "life_cycle": "",
+    "price": "4.00",
+    "price_per_unit": "$4.00 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1710"
+}
+{
+    "variety": "Lumina",
+    "name": "Pumpkins",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "100",
+    "life_cycle": "",
+    "price": "2.30",
+    "price_per_unit": "$2.30 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1713"
+}
+{
+    "variety": "Rouge Vif d\u2019\u00c9tampes",
+    "name": "Pumpkins",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "105",
+    "life_cycle": "",
+    "price": "1.90",
+    "price_per_unit": "$1.90 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1727"
+}
+{
+    "variety": "Tom Fox",
+    "name": "Pumpkins",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "110",
+    "life_cycle": "",
+    "price": "1.50",
+    "price_per_unit": "$1.50 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1744"
+}
+{
+    "variety": "Jack Be Little",
+    "name": "Pumpkins",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "95",
+    "life_cycle": "",
+    "price": "2.00",
+    "price_per_unit": "$2.00 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1705"
+}
+{
+    "variety": "Wee-B-Little",
+    "name": "Pumpkins",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "90",
+    "life_cycle": "",
+    "price": "2.50",
+    "price_per_unit": "$2.50 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1702"
+}
+{
+    "variety": "Champion",
+    "name": "Radishes",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "25",
+    "life_cycle": "",
+    "price": "1.30",
+    "price_per_unit": "$1.30 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=2234"
+}
+{
+    "variety": "Cheriette",
+    "name": "Radishes",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "26",
+    "life_cycle": "",
+    "price": "2.20",
+    "price_per_unit": "$2.20 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=2243"
+}
+{
+    "variety": "Cherry Belle",
+    "name": "Radishes",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "25",
+    "life_cycle": "",
+    "price": "1.40",
+    "price_per_unit": "$1.40 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=2214"
+}
+{
+    "variety": "Easter Egg",
+    "name": "Radishes",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "25",
+    "life_cycle": "",
+    "price": "1.70",
+    "price_per_unit": "$1.70 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=2224"
+}
+{
+    "variety": "French Breakfast",
+    "name": "Radishes",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "26",
+    "life_cycle": "",
+    "price": "1.50",
+    "price_per_unit": "$1.50 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=2248"
+}
+{
+    "variety": "Gloriette",
+    "name": "Radishes",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "24",
+    "life_cycle": "",
+    "price": "1.90",
+    "price_per_unit": "$1.90 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=2212"
+}
+{
+    "variety": "Hailstone",
+    "name": "Radishes",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "25",
+    "life_cycle": "",
+    "price": "1.70",
+    "price_per_unit": "$1.70 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=2240"
+}
+{
+    "variety": "Pearl",
+    "name": "Radishes",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "25",
+    "life_cycle": "",
+    "price": "3.00",
+    "price_per_unit": "$3.00 per 250 seeds",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=2245"
+}
+{
+    "variety": "Pink Lady Slipper",
+    "name": "Radishes",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "25",
+    "life_cycle": "",
+    "price": "1.70",
+    "price_per_unit": "$1.70 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=2230"
+}
+{
+    "variety": "Plum Purple",
+    "name": "Radishes",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "26",
+    "life_cycle": "",
+    "price": "2.00",
+    "price_per_unit": "$2.00 per 1/8oz",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=2253"
+}
+{
+    "variety": "White Icicle",
+    "name": "Radishes",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "30",
+    "life_cycle": "",
+    "price": "1.40",
+    "price_per_unit": "$1.40 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=2262"
+}
+{
+    "variety": "Zlata",
+    "name": "Radishes",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "30",
+    "life_cycle": "",
+    "price": "2.50",
+    "price_per_unit": "$2.50 per 1/16oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=2257"
+}
+{
+    "variety": "Green Meat",
+    "name": "Radishes",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "55",
+    "life_cycle": "",
+    "price": "2.30",
+    "price_per_unit": "$2.30 per 1/8oz",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=2268"
+}
+{
+    "variety": "Mini Purple",
+    "name": "Radishes",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "50",
+    "life_cycle": "",
+    "price": "3.20",
+    "price_per_unit": "$3.20 per 1/16oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=2277"
+}
+{
+    "variety": "Saitaro",
+    "name": "Radishes",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "69",
+    "life_cycle": "",
+    "price": "3.20",
+    "price_per_unit": "$3.20 per 1/16oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=2285"
+}
+{
+    "variety": "Misato Rose",
+    "name": "Radishes",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "60",
+    "life_cycle": "",
+    "price": "2.20",
+    "price_per_unit": "$2.20 per 1/8oz",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=2269"
+}
+{
+    "variety": "Munchener Bier",
+    "name": "Radishes",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "55",
+    "life_cycle": "",
+    "price": "1.90",
+    "price_per_unit": "$1.90 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=2266"
+}
+{
+    "variety": "Round Black Spanish",
+    "name": "Radishes",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "65",
+    "life_cycle": "",
+    "price": "1.30",
+    "price_per_unit": "$1.30 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=2270"
+}
+{
+    "variety": "Watermelon",
+    "name": "Radishes",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "55",
+    "life_cycle": "",
+    "price": "1.70",
+    "price_per_unit": "$1.70 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=2265"
+}
+{
+    "variety": "Avon",
+    "name": "Spinach",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "42",
+    "life_cycle": "",
+    "price": "1.90",
+    "price_per_unit": "$1.90 per 1/4oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=2538"
+}
+{
+    "variety": "Bloomsdale",
+    "name": "Spinach",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "42",
+    "life_cycle": "",
+    "price": "1.40",
+    "price_per_unit": "$1.40 per 1/4oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=2540"
+}
+{
+    "variety": "Bloomsdale",
+    "name": "Spinach",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "42",
+    "life_cycle": "",
+    "price": "2.10",
+    "price_per_unit": "$2.10 per 1/4oz",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=2541"
+}
+{
+    "variety": "Giant Winter",
+    "name": "Spinach",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "45",
+    "life_cycle": "",
+    "price": "2.00",
+    "price_per_unit": "$2.00 per 1/4oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=2555"
+}
+{
+    "variety": "Oceanside",
+    "name": "Spinach",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "45",
+    "life_cycle": "",
+    "price": "2.10",
+    "price_per_unit": "$2.10 per 1/4oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=2539"
+}
+{
+    "variety": "Olympia",
+    "name": "Spinach",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "38",
+    "life_cycle": "",
+    "price": "1.70",
+    "price_per_unit": "$1.70 per 1/4oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=2512"
+}
+{
+    "variety": "Space",
+    "name": "Spinach",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "37",
+    "life_cycle": "",
+    "price": "1.90",
+    "price_per_unit": "$1.90 per 1/4oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=2510"
+}
+{
+    "variety": "Winter Bloomsdale",
+    "name": "Spinach",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "47",
+    "life_cycle": "",
+    "price": "2.20",
+    "price_per_unit": "$2.20 per 1/4oz",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=2558"
+}
+{
+    "variety": "Jade Dragon",
+    "name": "Squash - Summer",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "65",
+    "life_cycle": "",
+    "price": "6.00",
+    "price_per_unit": "$6.00 per 1/16oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1596"
+}
+{
+    "variety": "Alexandria",
+    "name": "Squash - Summer",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "47",
+    "life_cycle": "",
+    "price": "2.80",
+    "price_per_unit": "$2.80 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1484"
+}
+{
+    "variety": "White Bush",
+    "name": "Squash - Summer",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "50",
+    "life_cycle": "",
+    "price": "1.40",
+    "price_per_unit": "$1.40 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1488"
+}
+{
+    "variety": "Benning\u2019s Green Tint",
+    "name": "Squash - Summer",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "55",
+    "life_cycle": "",
+    "price": "1.30",
+    "price_per_unit": "$1.30 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1590"
+}
+{
+    "variety": "Sunburst",
+    "name": "Squash - Summer",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "52",
+    "life_cycle": "",
+    "price": "3.10",
+    "price_per_unit": "$3.10 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1580"
+}
+{
+    "variety": "Y-Star",
+    "name": "Squash - Summer",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "48",
+    "life_cycle": "",
+    "price": "3.60",
+    "price_per_unit": "$3.60 per 1/16oz",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=1577"
+}
+{
+    "variety": "Early Summer Crookneck",
+    "name": "Squash - Summer",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "58",
+    "life_cycle": "",
+    "price": "1.80",
+    "price_per_unit": "$1.80 per 1/8oz",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=1539"
+}
+{
+    "variety": "Gentry",
+    "name": "Squash - Summer",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "43",
+    "life_cycle": "",
+    "price": "3.00",
+    "price_per_unit": "$3.00 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1507"
+}
+{
+    "variety": "Saffron",
+    "name": "Squash - Summer",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "42",
+    "life_cycle": "",
+    "price": "1.50",
+    "price_per_unit": "$1.50 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1504"
+}
+{
+    "variety": "Slick Pik YS 26\u2122",
+    "name": "Squash - Summer",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "48",
+    "life_cycle": "",
+    "price": "2.80",
+    "price_per_unit": "$2.80 per 1/16oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1512"
+}
+{
+    "variety": "Zephyr",
+    "name": "Squash - Summer",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "54",
+    "life_cycle": "",
+    "price": "3.00",
+    "price_per_unit": "$3.00 per 1/16oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1526"
+}
+{
+    "variety": "Black Zucchini",
+    "name": "Squash - Summer",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "50",
+    "life_cycle": "",
+    "price": "1.30",
+    "price_per_unit": "$1.30 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1411"
+}
+{
+    "variety": "Cassia",
+    "name": "Squash - Summer",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "55",
+    "life_cycle": "",
+    "price": "3.70",
+    "price_per_unit": "$3.70 per 1/8oz",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=1450"
+}
+{
+    "variety": "Cocozelle",
+    "name": "Squash - Summer",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "53",
+    "life_cycle": "",
+    "price": "1.30",
+    "price_per_unit": "$1.30 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1434"
+}
+{
+    "variety": "Costata Romanesca",
+    "name": "Squash - Summer",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "60",
+    "life_cycle": "",
+    "price": "2.50",
+    "price_per_unit": "$2.50 per 1/8oz",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=1457"
+}
+{
+    "variety": "Eight Ball",
+    "name": "Squash - Summer",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "40",
+    "life_cycle": "",
+    "price": "3.00",
+    "price_per_unit": "$3.00 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1402"
+}
+{
+    "variety": "Jackpot",
+    "name": "Squash - Summer",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "42",
+    "life_cycle": "",
+    "price": "2.20",
+    "price_per_unit": "$2.20 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1404"
+}
+{
+    "variety": "Raven",
+    "name": "Squash - Summer",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "48",
+    "life_cycle": "",
+    "price": "2.30",
+    "price_per_unit": "$2.30 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1409"
+}
+{
+    "variety": "Sebring",
+    "name": "Squash - Summer",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "50",
+    "life_cycle": "",
+    "price": "2.70",
+    "price_per_unit": "$2.70 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1424"
+}
+{
+    "variety": "Spineless Beauty",
+    "name": "Squash - Summer",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "46",
+    "life_cycle": "",
+    "price": "2.30",
+    "price_per_unit": "$2.30 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1406"
+}
+{
+    "variety": "Carnival",
+    "name": "Squash - Winter",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "85",
+    "life_cycle": "",
+    "price": "3.00",
+    "price_per_unit": "$3.00 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1605"
+}
+{
+    "variety": "Paydon",
+    "name": "Squash - Winter",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "105",
+    "life_cycle": "",
+    "price": "2.30",
+    "price_per_unit": "$2.30 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1609"
+}
+{
+    "variety": "Sweet REBA",
+    "name": "Squash - Winter",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "90",
+    "life_cycle": "",
+    "price": "2.50",
+    "price_per_unit": "$2.50 per 1/8oz",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=1606"
+}
+{
+    "variety": "Table Queen",
+    "name": "Squash - Winter",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "90",
+    "life_cycle": "",
+    "price": "1.50",
+    "price_per_unit": "$1.50 per 1/4oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1608"
+}
+{
+    "variety": "Bonbon",
+    "name": "Squash - Winter",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "95",
+    "life_cycle": "",
+    "price": "4.30",
+    "price_per_unit": "$4.30 per 1/4oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1629"
+}
+{
+    "variety": "Burgess",
+    "name": "Squash - Winter",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "95",
+    "life_cycle": "",
+    "price": "1.70",
+    "price_per_unit": "$1.70 per 1/4oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1628"
+}
+{
+    "variety": "Bush Buttercup",
+    "name": "Squash - Winter",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "80",
+    "life_cycle": "",
+    "price": "2.40",
+    "price_per_unit": "$2.40 per 1/4oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1622"
+}
+{
+    "variety": "Uncle David\u2019s Dakota Dessert",
+    "name": "Squash - Winter",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "95",
+    "life_cycle": "",
+    "price": "2.60",
+    "price_per_unit": "$2.60 per 1/4oz",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=1630"
+}
+{
+    "variety": "Burpee\u2019s Butterbush",
+    "name": "Squash - Winter",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "87",
+    "life_cycle": "",
+    "price": "2.50",
+    "price_per_unit": "$2.50 per 1/8oz",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=1683"
+}
+{
+    "variety": "Little Dipper",
+    "name": "Squash - Winter",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "104",
+    "life_cycle": "",
+    "price": "3.20",
+    "price_per_unit": "$3.20 per 1/16oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1686"
+}
+{
+    "variety": "Waltham",
+    "name": "Squash - Winter",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "105",
+    "life_cycle": "",
+    "price": "1.70",
+    "price_per_unit": "$1.70 per 1/4oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1687"
+}
+{
+    "variety": "Waltham",
+    "name": "Squash - Winter",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "105",
+    "life_cycle": "",
+    "price": "2.00",
+    "price_per_unit": "$2.00 per 1/4oz",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=1688"
+}
+{
+    "variety": "Zeppelin Delicata",
+    "name": "Squash - Winter",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "100",
+    "life_cycle": "",
+    "price": "2.40",
+    "price_per_unit": "$2.40 per 1/8oz",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=1611"
+}
+{
+    "variety": "Sweet Dumpling",
+    "name": "Squash - Winter",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "100",
+    "life_cycle": "",
+    "price": "1.70",
+    "price_per_unit": "$1.70 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1614"
+}
+{
+    "variety": "Baby Blue Hubbard",
+    "name": "Squash - Winter",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "95",
+    "life_cycle": "",
+    "price": "1.90",
+    "price_per_unit": "$1.90 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1654"
+}
+{
+    "variety": "Blue Hubbard",
+    "name": "Squash - Winter",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "100",
+    "life_cycle": "",
+    "price": "1.70",
+    "price_per_unit": "$1.70 per 1/4oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1655"
+}
+{
+    "variety": "Eastern Rise",
+    "name": "Squash - Winter",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "95",
+    "life_cycle": "",
+    "price": "3.30",
+    "price_per_unit": "$3.30 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1633"
+}
+{
+    "variety": "Red Kuri",
+    "name": "Squash - Winter",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "92",
+    "life_cycle": "",
+    "price": "2.60",
+    "price_per_unit": "$2.60 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1626"
+}
+{
+    "variety": "Sunshine",
+    "name": "Squash - Winter",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "95",
+    "life_cycle": "",
+    "price": "3.50",
+    "price_per_unit": "$3.50 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1635"
+}
+{
+    "variety": "Sweet Mama",
+    "name": "Squash - Winter",
+    "category": "vegetables",
+    "manufacturer": "FedCo",
+    "maturity": "88",
+    "life_cycle": "",
+    "price": "4.00",
+    "price_per_unit": "$4.00 per 1/8oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1624"
+}
+{
+    "variety": "Heirloom Tomato Mix",
+    "name": "Tomatoes",
+    "category": "fruits",
+    "manufacturer": "FedCo",
+    "maturity": "   ",
+    "life_cycle": "",
+    "price": "1.90",
+    "price_per_unit": "$1.90 per 0.2g",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=4149"
+}
+{
+    "variety": "Amish Paste",
+    "name": "Tomatoes",
+    "category": "fruits",
+    "manufacturer": "FedCo",
+    "maturity": "85",
+    "life_cycle": "",
+    "price": "1.90",
+    "price_per_unit": "$1.90 per 0.2g",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=4140"
+}
+{
+    "variety": "Bellstar",
+    "name": "Tomatoes",
+    "category": "fruits",
+    "manufacturer": "FedCo",
+    "maturity": "74",
+    "life_cycle": "",
+    "price": "2.10",
+    "price_per_unit": "$2.10 per 0.2g",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=4133"
+}
+{
+    "variety": "Blue Beech ",
+    "name": "Tomatoes",
+    "category": "fruits",
+    "manufacturer": "FedCo",
+    "maturity": "90",
+    "life_cycle": "",
+    "price": "1.90",
+    "price_per_unit": "$1.90 per 0.2g",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=4146"
+}
+{
+    "variety": "Grandma Mary\u2019s",
+    "name": "Tomatoes",
+    "category": "fruits",
+    "manufacturer": "FedCo",
+    "maturity": "68",
+    "life_cycle": "",
+    "price": "1.90",
+    "price_per_unit": "$1.90 per 0.2g",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=4131"
+}
+{
+    "variety": "Heinz 2653",
+    "name": "Tomatoes",
+    "category": "fruits",
+    "manufacturer": "FedCo",
+    "maturity": "68",
+    "life_cycle": "",
+    "price": "2.00",
+    "price_per_unit": "$2.00 per 0.2g",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=4125"
+}
+{
+    "variety": "Hog Heart",
+    "name": "Tomatoes",
+    "category": "fruits",
+    "manufacturer": "FedCo",
+    "maturity": "86",
+    "life_cycle": "",
+    "price": "1.90",
+    "price_per_unit": "$1.90 per 0.2g",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=4141"
+}
+{
+    "variety": "Mr. Fumarole",
+    "name": "Tomatoes",
+    "category": "fruits",
+    "manufacturer": "FedCo",
+    "maturity": "65",
+    "life_cycle": "",
+    "price": "1.70",
+    "price_per_unit": "$1.70 per 0.2g",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=4123"
+}
+{
+    "variety": "Opalka",
+    "name": "Tomatoes",
+    "category": "fruits",
+    "manufacturer": "FedCo",
+    "maturity": "82",
+    "life_cycle": "",
+    "price": "1.90",
+    "price_per_unit": "$1.90 per 0.2g",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=4135"
+}
+{
+    "variety": "Orange Banana",
+    "name": "Tomatoes",
+    "category": "fruits",
+    "manufacturer": "FedCo",
+    "maturity": "85",
+    "life_cycle": "",
+    "price": "1.90",
+    "price_per_unit": "$1.90 per 0.2g",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=4137"
+}
+{
+    "variety": "Pasta",
+    "name": "Tomatoes",
+    "category": "fruits",
+    "manufacturer": "FedCo",
+    "maturity": "84",
+    "life_cycle": "",
+    "price": "2.60",
+    "price_per_unit": "$2.60 per 0.1g",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=4296"
+}
+{
+    "variety": "Plum Regal",
+    "name": "Tomatoes",
+    "category": "fruits",
+    "manufacturer": "FedCo",
+    "maturity": "75",
+    "life_cycle": "",
+    "price": "3.00",
+    "price_per_unit": "$3.00 per 10 seeds",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=4290"
+}
+{
+    "variety": "Speckled Roman",
+    "name": "Tomatoes",
+    "category": "fruits",
+    "manufacturer": "FedCo",
+    "maturity": "85",
+    "life_cycle": "",
+    "price": "1.90",
+    "price_per_unit": "$1.90 per 0.2g",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=4138"
+}
+{
+    "variety": "Vilms ",
+    "name": "Tomatoes",
+    "category": "fruits",
+    "manufacturer": "FedCo",
+    "maturity": "82",
+    "life_cycle": "",
+    "price": "1.90",
+    "price_per_unit": "$1.90 per 0.2g",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=4136"
+}
+{
+    "variety": "Arbason",
+    "name": "Tomatoes",
+    "category": "fruits",
+    "manufacturer": "FedCo",
+    "maturity": "76",
+    "life_cycle": "",
+    "price": "6.00",
+    "price_per_unit": "$6.00 per 10 seeds",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=4239"
+}
+{
+    "variety": "Aunt Ruby\u2019s German Green",
+    "name": "Tomatoes",
+    "category": "fruits",
+    "manufacturer": "FedCo",
+    "maturity": "85",
+    "life_cycle": "",
+    "price": "1.70",
+    "price_per_unit": "$1.70 per 0.2g",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=4080"
+}
+{
+    "variety": "Bizhiki",
+    "name": "Tomatoes",
+    "category": "fruits",
+    "manufacturer": "FedCo",
+    "maturity": "75",
+    "life_cycle": "",
+    "price": "1.90",
+    "price_per_unit": "$1.90 per 0.2g",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=4050"
+}
+{
+    "variety": "Black Krim",
+    "name": "Tomatoes",
+    "category": "fruits",
+    "manufacturer": "FedCo",
+    "maturity": "80",
+    "life_cycle": "",
+    "price": "1.90",
+    "price_per_unit": "$1.90 per 0.2g",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=4061"
+}
+{
+    "variety": "Black Prince",
+    "name": "Tomatoes",
+    "category": "fruits",
+    "manufacturer": "FedCo",
+    "maturity": "75",
+    "life_cycle": "",
+    "price": "1.90",
+    "price_per_unit": "$1.90 per 0.2g",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=4053"
+}
+{
+    "variety": "Cherokee Green",
+    "name": "Tomatoes",
+    "category": "fruits",
+    "manufacturer": "FedCo",
+    "maturity": "75",
+    "life_cycle": "",
+    "price": "2.00",
+    "price_per_unit": "$2.00 per 0.2g",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=4058"
+}
+{
+    "variety": "Blacktail Mountain",
+    "name": "Watermelons",
+    "category": "fruits",
+    "manufacturer": "FedCo",
+    "maturity": "71",
+    "life_cycle": "",
+    "price": "2.80",
+    "price_per_unit": "$2.80 per 1/16oz",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=1003"
+}
+{
+    "variety": "Crimson Sweet",
+    "name": "Watermelons",
+    "category": "fruits",
+    "manufacturer": "FedCo",
+    "maturity": "90",
+    "life_cycle": "",
+    "price": "1.90",
+    "price_per_unit": "$1.90 per 1/16oz",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=1063"
+}
+{
+    "variety": "Diana",
+    "name": "Watermelons",
+    "category": "fruits",
+    "manufacturer": "FedCo",
+    "maturity": "76",
+    "life_cycle": "",
+    "price": "4.00",
+    "price_per_unit": "$4.00 per 15 seeds",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1016"
+}
+{
+    "variety": "Fantasy",
+    "name": "Watermelons",
+    "category": "fruits",
+    "manufacturer": "FedCo",
+    "maturity": "85",
+    "life_cycle": "",
+    "price": "3.20",
+    "price_per_unit": "$3.20 per 15 seeds",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1045"
+}
+{
+    "variety": "Moon and Stars",
+    "name": "Watermelons",
+    "category": "fruits",
+    "manufacturer": "FedCo",
+    "maturity": "100",
+    "life_cycle": "",
+    "price": "2.00",
+    "price_per_unit": "$2.00 per 1/16oz",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=1072"
+}
+{
+    "variety": "Quetzali",
+    "name": "Watermelons",
+    "category": "fruits",
+    "manufacturer": "FedCo",
+    "maturity": "85",
+    "life_cycle": "",
+    "price": "2.30",
+    "price_per_unit": "$2.30 per 1/16oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1042"
+}
+{
+    "variety": "Sangria",
+    "name": "Watermelons",
+    "category": "fruits",
+    "manufacturer": "FedCo",
+    "maturity": "88",
+    "life_cycle": "",
+    "price": "2.80",
+    "price_per_unit": "$2.80 per 15 seeds",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1056"
+}
+{
+    "variety": "Sugar Baby",
+    "name": "Watermelons",
+    "category": "fruits",
+    "manufacturer": "FedCo",
+    "maturity": "80",
+    "life_cycle": "",
+    "price": "2.00",
+    "price_per_unit": "$2.00 per 1/16oz",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=1028"
+}
+{
+    "variety": "Sweet Dakota Rose",
+    "name": "Watermelons",
+    "category": "fruits",
+    "manufacturer": "FedCo",
+    "maturity": "82",
+    "life_cycle": "",
+    "price": "2.50",
+    "price_per_unit": "$2.50 per 1/16oz",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=1035"
+}
+{
+    "variety": "Verona ",
+    "name": "Watermelons",
+    "category": "fruits",
+    "manufacturer": "FedCo",
+    "maturity": "86",
+    "life_cycle": "",
+    "price": "2.20",
+    "price_per_unit": "$2.20 per 1/16oz",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=1047"
+}
+{
+    "variety": "Early Moonbeam",
+    "name": "Watermelons",
+    "category": "fruits",
+    "manufacturer": "FedCo",
+    "maturity": "78",
+    "life_cycle": "",
+    "price": "2.40",
+    "price_per_unit": "$2.40 per 1/16oz",
+    "organic": true,
+    "url": "https://www.fedcoseeds.com/seeds?item=1021"
+}
+{
+    "variety": "Gold Flower",
+    "name": "Watermelons",
+    "category": "fruits",
+    "manufacturer": "FedCo",
+    "maturity": "75",
+    "life_cycle": "",
+    "price": "4.00",
+    "price_per_unit": "$4.00 per 1/16oz",
+    "organic": false,
+    "url": "https://www.fedcoseeds.com/seeds?item=1013"
+}
