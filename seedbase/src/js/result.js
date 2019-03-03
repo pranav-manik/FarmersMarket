@@ -38,14 +38,13 @@ function MakeSeed(props) {
 	return (
 		<div class = "resultListView">
       <div class = "img-wrapper">
-        <img src = {props.seedImg}></img>
+        <i class = {props.seedImg}></i>
       </div>
       <div class = "result-info">
-			   <h4> {props.seedVariety} {props.seedName}</h4>
-         <p>Manufacturer: {props.seedManufacturer}</p>
-         <p>Maturity: {props.seedMaturity} | Life Cycle: {props.seedLifeCycle}
-        </p>
-         <p>Organic: {props.seedOrganic}</p>
+			   <h4> {props.seedVariety} {props.seedName} </h4>
+         <p>Manufacturer: {props.seedManufacturer} </p>
+         <p>Maturity: {props.seedMaturity} | Life Cycle: {props.seedLifeCycle} </p>
+         <p>Organic: {props.seedOrganic} </p>
       </div>
       <div class = "price-info">
         <p>{props.seedPrice}</p>
@@ -97,7 +96,7 @@ class Rows extends React.Component{
     super(props);
     this.state = {
       data: [
-        
+
       ]
     }
     this.retrieveData();
@@ -113,7 +112,7 @@ class Rows extends React.Component{
     });
   }
 
-  renderSeed(img='/img/logo.png', variety='n/a', name='n/a', manufacturer='n/a', mature='n/a', life_cycle='n/a', organic=false, price=0, url='n/a'){
+  renderSeed(img= "fas fa-apple", variety='n/a', name='n/a', manufacturer='n/a', mature='n/a', life_cycle='n/a', organic=false, price=0, url='n/a'){
 
     return(
         <MakeSeed
@@ -135,8 +134,20 @@ class Rows extends React.Component{
     if (data.length > 0) {
       var rows = [];
       for (var i=0; i < 30; i++) {
-        
-        rows.push(this.renderSeed("/img/logo.png", data[i].variety, data[i].name, data[i].manufacturer, data[i].maturity, data[i].life_cycle, data[i].organic, data[i].price, data[i].url));
+
+        var logo;
+
+        if (data[i].category == "fruits"){
+          logo = "fas fa-3x fa-apple-alt padtop red";
+        }
+        else if (data[i].category == "vegetables"){
+          logo = "fas fa-3x fa-carrot padtop orange";
+        }
+        else {
+          logo = "fas fa-3x fa-seedling padtop green"
+        }
+
+        rows.push(this.renderSeed(logo, data[i].variety, data[i].name, data[i].manufacturer, data[i].maturity, data[i].life_cycle, data[i].organic, data[i].price, data[i].url));
       }
       console.log("rows " + rows);
     }
