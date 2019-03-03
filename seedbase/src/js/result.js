@@ -16,10 +16,12 @@ var config = {
 // Get a reference to the database service
 var database = firebase.database();
 
-database.ref().once("value")
-.then(function(snapshot) {
-  console.log(snapshot.val());
-});
+// database.ref().once("value")
+// .then(function(snapshot) {
+//   data = snapshot.val();
+//   // console.log(data);
+// });
+
 
 //Credentials for Algolia
 const App = () => (
@@ -39,13 +41,14 @@ function MakeSeed(props) {
         <img src = {props.seedImg}></img>
       </div>
       <div class = "result-info">
-			   <h4> {props.seedName}</h4>
+			   <h4> {props.seedVariety} {props.seedName}</h4>
          <p>Manufacturer: {props.seedManufacturer}</p>
-         <p>Germination Rate: {props.seedGerm}</p>
-         <p>Cold Hardiness: {props.seedCold}</p>
+         <p>Maturity: {props.seedMaturity} | Life Cycle: {props.seedLifeCycle}
+        </p>
+         <p>Organic: {props.seedOrganic}</p>
       </div>
       <div class = "price-info">
-        <p>${props.seedPrice}/lb</p>
+        <p>{props.seedPrice}</p>
         <a href={props.seedURL} target="_blank"><i class="fas fa-2x fa-shopping-basket"></i></a>
       </div>
 		</div>
@@ -92,16 +95,35 @@ class Sort extends React.Component{
 class Rows extends React.Component{
   constructor(props){
     super(props);
+    this.state = {
+      data: [
+        
+      ]
+    }
+    this.retrieveData();
   }
 
-  renderSeed(img, name, man, germ, cold, price, url){
+  retrieveData = () => {
+    var parent = this;
+
+    database.ref().once("value")
+    .then(function(snapshot) {
+      console.log(snapshot.val());
+      parent.setState({data:snapshot.val()});
+    });
+  }
+
+  renderSeed(img='/img/logo.png', variety='n/a', name='n/a', manufacturer='n/a', mature='n/a', life_cycle='n/a', organic=false, price=0, url='n/a'){
+
     return(
         <MakeSeed
           seedImg = {img}
+          seedVariety = {variety}
           seedName = {name}
-          seedManufacturer = {man}
-          seedGerm = {germ}
-          seedCold = {cold}
+          seedManufacturer = {manufacturer}
+          seedMaturity = {mature + " days"|| 'n/a'}
+          seedLifeCycle = {life_cycle || 'n/a'}
+          seedOrganic = {organic ? 'Yes': 'No'}
           seedPrice = {price}
           seedURL = {url}
         />
@@ -109,15 +131,18 @@ class Rows extends React.Component{
   }
 
   render(){
+    let { data } = this.state;
+    if (data.length > 0) {
+      var rows = [];
+      for (var i=0; i < 30; i++) {
+        
+        rows.push(this.renderSeed("/img/logo.png", data[i].variety, data[i].name, data[i].manufacturer, data[i].maturity, data[i].life_cycle, data[i].organic, data[i].price, data[i].url));
+      }
+      console.log("rows " + rows);
+    }
     return(
       <div>
-        {this.renderSeed("./img/logo.png", "Seed", "Johnny's", "100%", "Yes", "0.99", "https://www.johnnyseeds.com/")}
-        {this.renderSeed("./img/logo.png", "Seed", "Johnny's", "100%", "Yes", "0.99", "https://www.johnnyseeds.com/")}
-        {this.renderSeed("./img/logo.png", "Seed", "Johnny's", "100%", "Yes", "0.99", "https://www.johnnyseeds.com/")}
-        {this.renderSeed("./img/logo.png", "Seed", "Johnny's", "100%", "Yes", "0.99", "https://www.johnnyseeds.com/")}
-        {this.renderSeed("./img/logo.png", "Seed", "Johnny's", "100%", "Yes", "0.99", "https://www.johnnyseeds.com/")}
-        {this.renderSeed("./img/logo.png", "Seed", "Johnny's", "100%", "Yes", "0.99", "https://www.johnnyseeds.com/")}
-        {this.renderSeed("./img/logo.png", "Seed", "Johnny's", "100%", "Yes", "0.99", "https://www.johnnyseeds.com/")}
+          {rows}
       </div>
     );
   }
