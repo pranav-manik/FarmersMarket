@@ -1,5 +1,7 @@
 import React from 'react';
 import '@fortawesome/fontawesome-free/css/all.css'; // or single skin css
+import { Dropdown, DropdownToggle, DropdownMenu, DropdownItem } from 'reactstrap';
+import { InstantSearch } from 'react-instantsearch-dom';
 import firebase from 'firebase'
 var config = {
     apiKey: "AIzaSyBk2mYeH-3ETNzwk2vXbgP8coLuQD6CW74",
@@ -19,6 +21,17 @@ database.ref().once("value")
   console.log(snapshot.val());
 });
 
+//Credentials for Algolia
+const App = () => (
+  <InstantSearch
+    appId="latency"
+    apiKey="3d9875e51fbd20c7754e65422f7ce5e1"
+    indexName="bestbuy"
+  >
+    {/* Search widgets will go there */}
+  </InstantSearch>
+);
+
 function MakeSeed(props) {
 	return (
 		<div class = "resultListView">
@@ -37,6 +50,43 @@ function MakeSeed(props) {
       </div>
 		</div>
 	);
+}
+
+class Sort extends React.Component{
+  constructor(props) {
+    super(props);
+
+    this.toggle = this.toggle.bind(this);
+    this.state = {
+      dropdownOpen: false
+    };
+  }
+
+  toggle() {
+    this.setState(prevState => ({
+      dropdownOpen: !prevState.dropdownOpen
+    }));
+  }
+
+  render() {
+    return (
+        <Dropdown isOpen={this.state.dropdownOpen} toggle={this.toggle}>
+          <DropdownToggle caret>
+            Sort
+          </DropdownToggle>
+          <DropdownMenu>
+            <DropdownItem header>Price</DropdownItem>
+            <DropdownItem>Low to High</DropdownItem>
+            <DropdownItem>High to Low</DropdownItem>
+            <DropdownItem divider />
+            <DropdownItem header>Name</DropdownItem>
+            <DropdownItem>Ascending</DropdownItem>
+            <DropdownItem>Descending</DropdownItem>
+            <DropdownItem divider />
+          </DropdownMenu>
+        </Dropdown>
+    );
+  }
 }
 
 class Rows extends React.Component{
@@ -77,7 +127,10 @@ class Rows extends React.Component{
 export default class Result extends React.Component{
   render (){
     return(
-      <Rows />
+      <div>
+        <Sort />
+        <Rows />
+      </div>
     );
   }
 }

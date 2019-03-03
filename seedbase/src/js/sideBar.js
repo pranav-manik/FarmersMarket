@@ -3,6 +3,8 @@ import { Collapse, Button, Dropdown, DropdownToggle, DropdownMenu, DropdownItem}
 import 'icheck/skins/all.css'; // or single skin css
 
 import {Checkbox, Radio} from 'react-icheck';
+import ReactDOM from 'react-dom';
+import InputRange from 'react-input-range';
 
 export default class SideBar extends React.Component{
 
@@ -82,6 +84,26 @@ class Vendor extends React.Component{
           <DropdownItem>FedCo</DropdownItem>
         </DropdownMenu>
       </Dropdown>
+    );
+  }
+}
+
+class Price extends React.Component{
+  constructor(props) {
+    super(props);
+
+    this.state = {
+      value: { min: 10, max: 20 },
+    };
+  }
+
+  render() {
+    return (
+      <InputRange
+        maxValue={30}
+        minValue={0}
+        value={this.state.value}
+        onChange={value => this.setState({ value })} />
     );
   }
 }
