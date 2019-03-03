@@ -119,11 +119,7 @@ class Rows extends React.Component{
     });
   }
 
-<<<<<<< HEAD
-  renderSeed(img='/img/logo.png', variety='n/a', name='n/a', manufacturer='n/a', mature='n/a', life_cycle='n/a', organic=false, price=0, price_per_unit, url='n/a'){
-=======
-  renderSeed(img= "fas fa-apple", variety='n/a', name='n/a', manufacturer='n/a', mature='n/a', life_cycle='n/a', organic=false, price=0, url='n/a'){
->>>>>>> 251d3a9fe055a145575018da96b7187d02180885
+renderSeed(img='/img/logo.png', variety='n/a', name='n/a', manufacturer='n/a', mature='n/a', life_cycle='n/a', organic=false, price=0, price_per_unit, url='n/a'){
 
     return(
         <MakeSeed
@@ -163,7 +159,6 @@ class Rows extends React.Component{
     let { data } = this.state;
     if (data.length > 0) {
       var rows = [];
-<<<<<<< HEAD
       for (var i=0; i < data.length; i++) {
 
         let myVariety = data[i].variety;
@@ -173,11 +168,6 @@ class Rows extends React.Component{
         let isOrganic = data[i].organic ? 'Yes': 'No';
         let displayPrice = '$' + data[i].price;
         let myLifeCycle = data[i].life_cycle;
-
-        rows.push(this.renderSeed("/img/logo.png", myVariety, myName, data[i].manufacturer, myMaturity, myLifeCycle, isOrganic, displayPrice, data[i].price_per_unit, data[i].url));
-=======
-      for (var i=0; i < 30; i++) {
-
         var logo;
 
         if (data[i].category == "fruits"){
@@ -190,8 +180,7 @@ class Rows extends React.Component{
           logo = "fas fa-3x fa-seedling padtop green"
         }
 
-        rows.push(this.renderSeed(logo, data[i].variety, data[i].name, data[i].manufacturer, data[i].maturity, data[i].life_cycle, data[i].organic, data[i].price, data[i].url));
->>>>>>> 251d3a9fe055a145575018da96b7187d02180885
+        rows.push(this.renderSeed(logo, myVariety, myName, data[i].manufacturer, myMaturity, myLifeCycle, isOrganic, displayPrice, data[i].price_per_unit, data[i].url));
       }
     }
     return(
