@@ -1,5 +1,23 @@
 import React from 'react';
 import '@fortawesome/fontawesome-free/css/all.css'; // or single skin css
+import firebase from 'firebase'
+var config = {
+    apiKey: "AIzaSyBk2mYeH-3ETNzwk2vXbgP8coLuQD6CW74",
+    authDomain: "seedbase-e7ee6.firebaseapp.com",
+    databaseURL: "https://seedbase-e7ee6.firebaseio.com",
+    projectId: "seedbase-e7ee6",
+    storageBucket: "seedbase-e7ee6.appspot.com",
+    messagingSenderId: "721731422552"
+  };
+  firebase.initializeApp(config);
+
+// Get a reference to the database service
+var database = firebase.database();
+
+database.ref().once("value")
+.then(function(snapshot) {
+  console.log(snapshot.val());
+});
 
 function MakeSeed(props) {
 	return (
