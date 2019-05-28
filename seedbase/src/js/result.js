@@ -98,7 +98,7 @@ class Rows extends React.Component{
   }
 
   UNSAFE_componentWillReceiveProps(nextProps) {
-    console.log('new props');
+    // console.log('new props');
     this.retrieveData(nextProps.query);
   }
 
@@ -108,7 +108,7 @@ class Rows extends React.Component{
     query = query.toLowerCase();
     database.ref().once("value")
     .then(function(snapshot) {
-      console.log(snapshot.val());
+      // console.log(snapshot.val());
       return snapshot.val();
     })
     .then(function(data) {
